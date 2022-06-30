@@ -1,0 +1,2 @@
+# CarPricePrediction
+Car price prediction using machine learning algorithms - KNN and Linear Regression, implemented from scratch in Python and compared with existing SKLearn implementations (accuracy and speed of execution). Data used within the project was scrapped from one of the largest Serbian websites (www.polovniautomobili.com) where people list ads to sell their cars. The project also includes a multithreaded scraper that uses HTTPS (SSL) proxies, since the website works only with HTTPS protocol.
