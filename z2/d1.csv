@@ -1,0 +1,31 @@
+idOglasa,cena,stanje,marka,model,godiste,kilometraza,karoserija,gorivo,kubikaza,snagaMotora,menjac,brojVrata,boja,lokacijaProdavca
+20043981,1111111,"Polovno vozilo","Mercedes Benz",Ostalo,1974,2000000,Limuzina,Benzin,1700,60,"Manuelni 4 brzine ",2,"Plava ",Aleksinac
+20063979,290010,"Polovno vozilo",Ford,Fiesta,2008,190000,Hečbek,Dizel,1398,68,"Manuelni 5 brzina ",4,"Siva ",Batajnica
+18808403,275900,"Polovno vozilo","Mercedes Benz","GLS 600",2021,3000,Džip/SUV,Benzin,3982,557,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19483963,209990,"Polovno vozilo","Mercedes Benz","G 500",2017,38400,Džip/SUV,Benzin,3982,421,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19914157,195000,"Polovno vozilo",Porsche,911,2021,5000,Kupe,Benzin,3000,450,"Automatski / poluautomatski ",2,"Krem ",Prigrevica
+19887936,191900,"Polovno vozilo","Mercedes Benz","G 400",2022,1000,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19383134,190900,"Polovno vozilo",Porsche,911,2021,12000,Kabriolet/Roadster,Benzin,2981,450,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19593630,189000,"Polovno vozilo",Porsche,911,2020,8300,Kupe,Benzin,2981,450,"Automatski / poluautomatski ",2,"Crna ","Bežanijska Kosa"
+20061971,185900,"Polovno vozilo",Porsche,911,2020,3000,Kupe,Benzin,2981,450,"Automatski / poluautomatski ",4,"Bela ",Prigrevica
+19963538,179900,"Polovno vozilo","Mercedes Benz","GLE 63 AMG",2021,15000,Džip/SUV,Benzin,3982,612,"Automatski / poluautomatski ",4,"Crna ",Temerin
+19383029,175900,"Polovno vozilo","Mercedes Benz","GLE 63 AMG",2022,12000,Džip/SUV,Benzin,3982,612,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19941276,174900,"Polovno vozilo","Mercedes Benz","G 400",2021,25000,Džip/SUV,Dizel,3000,330,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+19398268,169900,"Polovno vozilo","Mercedes Benz","S 580",2021,8000,Limuzina,Benzin,3982,503,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19067328,169000,"Polovno vozilo","Mercedes Benz","G 400",2021,16900,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Siva ",Niš
+19922785,169000,"Polovno vozilo","Mercedes Benz","S 400",2022,5500,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Zlatna ","Novi Pazar"
+19383108,165900,"Polovno vozilo","Mercedes Benz","S 500",2021,4000,Limuzina,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19374584,164999,"Polovno vozilo","Mercedes Benz","G 400",2019,29000,Džip/SUV,Dizel,2998,329,"Automatski / poluautomatski ",4,"Braon ",Beograd
+19963460,164990,"Polovno vozilo",Ferrari,"458 Italia",2013,25000,Kabriolet/Roadster,Benzin,4497,566,"Automatski / poluautomatski ",2,"Žuta ","Novi Beograd"
+16450124,164000,"Polovno vozilo",Audi,"RS Q8",2020,29000,Džip/SUV,Benzin,4000,600,"Automatski / poluautomatski ",4,"Crvena ",Prigrevica
+19922158,162000,"Polovno vozilo","Mercedes Benz","G 400",2020,25000,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Niš
+17753952,159000,"Polovno vozilo","Mercedes Benz","GT 63 AMG",2020,37000,Kupe,Benzin,3982,639,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19636534,159000,"Polovno vozilo","Mercedes Benz","S 500",2021,13000,Limuzina,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+15691993,159000,"Polovno vozilo",Audi,Q8,2020,35000,Džip/SUV,Benzin,3996,700,"Automatski ",4,"Crna ",Niš
+19392015,157000,"Polovno vozilo","Mercedes Benz","S 500",2020,17000,Limuzina,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+19383071,155900,"Polovno vozilo","Mercedes Benz","S 400",2021,15000,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Beograd
+20027869,152000,"Polovno vozilo","Mercedes Benz","G 350",2020,45000,Džip/SUV,Dizel,2925,286,"Automatski / poluautomatski ",4,"Crna ",Subotica
+19554914,149990,"Polovno vozilo","Mercedes Benz","S 63 AMG",2020,50845,Limuzina,Benzin,3982,612,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19021226,148900,"Polovno vozilo","Mercedes Benz","G 350",2020,28800,Džip/SUV,Dizel,2925,286,"Automatski / poluautomatski ",4,"Srebrna ",Beograd
+19429661,148900,"Polovno vozilo","Mercedes Benz","S 400",2020,20000,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19383044,148900,"Polovno vozilo","Mercedes Benz","GLS 580",2021,12000,Džip/SUV,Benzin,3982,489,"Automatski / poluautomatski ",4,"Crna ",Beograd

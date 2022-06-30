@@ -1,0 +1,789 @@
+Grad,"Broj automobila"
+Beograd,4912
+"Novi Sad",2553
+Niš,1232
+Kragujevac,1054
+Šabac,975
+Čačak,857
+Pančevo,751
+"Novi Beograd",619
+Valjevo,562
+Kraljevo,513
+Zemun,506
+Loznica,481
+Subotica,467
+Obrenovac,405
+"Novi Pazar",394
+Veternik,360
+Jagodina,314
+Ruma,310
+Futog,304
+Smederevo,285
+Batajnica,269
+Kruševac,262
+Leskovac,260
+Zrenjanin,257
+Mladenovac,233
+Lazarevac,232
+Sombor,209
+"Stara Pazova",208
+"Smederevska Palanka",197
+Inđija,192
+Aranđelovac,169
+Užice,155
+Surčin,151
+Temerin,147
+Petrovaradin,146
+Zvezdara,145
+Požarevac,141
+Vrbas,141
+"Sremska Mitrovica",141
+Vranje,139
+"Bežanijska Kosa",133
+"Gornji Milanovac",130
+Ub,120
+Paraćin,114
+Kovin,113
+Čukarica,113
+Kikinda,111
+"Petrovac Na Mlavi",109
+Voždovac,104
+"Lajkovac (Varoš)",101
+"Sremska Kamenica",100
+Prokuplje,96
+"Velika Plana",96
+Borča,94
+Aleksinac,92
+Vršac,89
+Topola,86
+Kula,83
+Požega,81
+Vrčin,80
+Ćuprija,79
+PIROT,79
+Svilajnac,77
+Rakovica,76
+Bor,73
+Arilje,73
+Zaječar,72
+Koceljeva,65
+"Vrnjačka Banja",63
+"Bajina Bašta",63
+"Bačka Topola",62
+Prijepolje,62
+Trstenik,61
+"Novi Bečej",60
+Ugrinovci,58
+Kać,58
+"Bačka Palanka",57
+Knjaževac,57
+Barajevo,57
+Prigrevica,56
+Apatin,56
+Dobanovci,54
+Ivanjica,54
+Sjenica,53
+Bečej,50
+Kanjiža,50
+Palilula,48
+Ada,48
+Tutin,44
+"Nova Pazova",44
+Grocka,43
+Kaluđerica,41
+Sremčica,41
+Beška,40
+Leštane,39
+Železnik,38
+"Vladičin Han",37
+Kuršumlija,37
+Irig,37
+Preševo,37
+Žabalj,36
+"Niška Banja",33
+Vračar,33
+Rumenka,32
+Negotin,32
+Surdulica,32
+Raška,32
+Šid,31
+"Stari Banovci",31
+Priboj,30
+Blace,30
+Sopot,30
+Aleksandrovac,29
+Slepčević,29
+Boljevac,28
+"Nova Varoš",28
+Šimanovci,28
+VLASOTINCE,28
+Majur,27
+"Mionica (Varošica)",27
+"Novi Banovci",27
+Srbobran,27
+Mol,26
+"Banovo Brdo",26
+Martonoš,25
+"Stari Grad",24
+Senta,24
+Alibunar,23
+Krupanj,23
+Resnik,22
+"Mali Zvornik",22
+Ljubovija,21
+Brus,21
+"Banja Koviljača",21
+Varvarin,21
+Bogatić,21
+Čajetina,21
+"Osečina (Varošica)",20
+Odžaci,20
+Ljig,19
+"Bačko Dobro Polje",19
+Beočin,19
+Altina,19
+Jakovo,18
+Kucura,18
+Čurug,18
+Barič,17
+"Bela Crkva",17
+"Veliki Mokri Lug",17
+Žarkovo,17
+Zlatibor,17
+Majdanpek,17
+"Bačko Petrovo Selo",17
+Lebane,17
+"Ravno Selo",17
+"Petlovo Brdo",17
+Guča,16
+Bavanište,16
+"Gornja Vranjska",16
+Vinča,16
+Ćićevac,16
+Rača,16
+"Veliko Gradište",16
+Vrdnik,15
+Jajinci,15
+Knić,15
+Kačarevo,15
+Zmajevo,15
+Cerak,15
+Omoljica,15
+Šajkaš,14
+Sokobanja,14
+Batočina,14
+"Braće Jerković",14
+Crvenka,14
+Pojate,14
+Mirijevo,14
+Palić,14
+"Lučani (Varošica)",13
+Žitkovac,13
+"Banatsko Novo Selo",13
+Opovo,13
+Karaburma,13
+Dolovo,13
+Umka,13
+"Lapovo (Varošica)",12
+Boleč,12
+Despotovac,12
+"Grdelica (Varoš)",12
+"Veliki Crljeni",12
+Ripanj,12
+"Savski Venac",12
+Pećinci,12
+"Zemun Polje",11
+Krnjača,11
+Klenak,11
+Kosjerić,11
+Bač,11
+Kostolac,11
+Vojka,11
+Putinci,11
+Lešnica,11
+Voganj,10
+Dublje,10
+Čenej,10
+Lazarevo,10
+Čenta,10
+Starčevo,10
+Babušnica,10
+Stepojevac,10
+Pukovac,9
+Kučevo,9
+Kovačica,9
+Jevremovac,9
+Sivac,9
+Svrljig,9
+Lipolist,9
+Plandište,9
+Vidikovac,9
+"Mali Mokri Lug",9
+Bujanovac,9
+Zuce,8
+Melenci,8
+Vladimirovac,8
+Preljina,8
+"Sremski Karlovci",8
+Bojnik,8
+Badovinci,8
+"Stari Ledinci",8
+Perlez,8
+Lučane,8
+Kljajićevo,8
+Kisač,8
+Belegiš,8
+Jelenča,7
+"Velika Moštanica",7
+Elemir,7
+Žitorađa,7
+Klek,7
+Crepaja,7
+Kumodraž,7
+Draginje,7
+Gospođinci,7
+Merošina,7
+Rekovac,7
+"Bački Jarak",7
+"Bački Petrovac",7
+"Mala Ivanča",7
+Laćarak,7
+Stragari,7
+Begeč,7
+"Mionica (Selo)",7
+Mramorak,7
+Ušće,7
+Medveđa,6
+Petrijevo,6
+Čelarevo,6
+Gaj,6
+Aradac,6
+Mokrin,6
+"Mataruška Banja",6
+"Banatski Karlovac",6
+Meljak,6
+Medaković,6
+Lozovik,6
+Stajićevo,6
+Popovac,6
+Vranić,6
+"Bela Palanka",6
+Kovilj,6
+Sevojno,6
+Busije,6
+Žagubica,6
+Ratkovo,6
+Mrčajevci,6
+"Donji Matejevac",5
+Dorćol,5
+Kladovo,5
+Blaznava,5
+Debeljača,5
+Žabari,5
+Lučica,5
+Stapar,5
+"Bački Monoštor",5
+Rudovci,5
+Bečmen,5
+Jarkovac,5
+Baranda,5
+Ostružnica,5
+Klenje,5
+Miljakovac,5
+Golubinci,5
+Krepoljin,5
+Stanišić,5
+Bajmok,5
+Uljma,5
+Mojsinje,4
+Doljevac,4
+Ražanj,4
+Leposavić,4
+Golubac,4
+Feketić,4
+"Padinska Skela",4
+"Kosovska Mitrovica",4
+Ledinci,4
+"Mali Požarevac",4
+"Novo Selo",4
+Rabrovo,4
+Vranovo,4
+Titel,4
+Pečenjevce,4
+Vladimirci,4
+Jarak,4
+Stepanje,4
+"Crna Gora",4
+Jabuka,4
+Krnjevo,4
+Sirig,4
+Markovac,4
+Vitoševac,4
+Petlovača,4
+Čortanovci,4
+"Aleksandrovac (Žabari)",4
+Ralja,4
+"Novi Karlovci",4
+Erdevik,4
+Stojnik,4
+"Donji Tovarnik",4
+Lovćenac,4
+Kuzmin,4
+Pavliš,3
+Dobrić,3
+Ledine,3
+Kusadak,3
+Mihajlovac,3
+"Novo Miloševo",3
+"Mačvanska Mitrovica",3
+"Gadžin Han",3
+"Vranjska Banja",3
+Nemačka,3
+Đurđevo,3
+"Vlaški Do",3
+Bočar,3
+Stalać,3
+BUKOVAC,3
+"Bačko Gradište",3
+Nadalj,3
+Žiča,3
+Kelebija,3
+Smilovac,3
+Švajcarska,3
+Žirovnica,3
+Jasenovo,3
+Deronje,3
+Deč,3
+"Svetozar Miletić",3
+Prnjavor,3
+"Gornji Tavankut",3
+Rušanj,3
+Lađevci,3
+"Savino Selo",3
+Balajnac,3
+Kotež,3
+"Novi Slankamen",3
+Pantelej,3
+Medoševac,3
+Popinci,3
+"Bački Gračac",3
+"Banatski Brestovac",3
+Petrovčić,3
+Vlajkovac,2
+Platičevo,2
+Oparic,2
+Budisava,2
+Provo,2
+"Guča (Selo)",2
+"Jadranska Lešnica",2
+Vreoci,2
+Horgoš,2
+Bačina,2
+"Novi Kneževac",2
+Obrovac,2
+Ratina,2
+Bašaid,2
+"Mala Plana",2
+Kumane,2
+"Velika Drenova",2
+Zvečan,2
+Bogojevce,2
+Nikojevići,2
+Višnjićevo,2
+Hrtkovci,2
+"Grdelica (Selo)",2
+Belasica,2
+Bezdan,2
+Vajska,2
+Višnjevac,2
+Slovenija,2
+Stepanovićevo,2
+"Suvi Do",2
+Drenovac,2
+Vučje,2
+Aleksandrovo,2
+Čestereg,2
+Debrc,2
+Popučke,2
+"Veliko Orašje",2
+"Nova Crnja",2
+Tovariševo,2
+Brzan,2
+"Lučani (Selo)",2
+"Malo Laole",2
+Jabučje,2
+Petrovac,2
+Krčedin,2
+Sepci,2
+"Stara Moravica",2
+Gorjani,2
+Bradarac,2
+"Skojevsko Naselje",2
+"Crna Bara",2
+Selenča,2
+Padina,2
+"Ostale zemlje",2
+Brestovac,2
+Prilike,2
+"Banja Vrujci",2
+Pepeljevac,2
+Deliblato,2
+Baljevac,2
+Grabovci,2
+Zatonje,2
+Sečanj,2
+Kupinovo,2
+Zlot,2
+Dimitrovgrad,2
+Makce,2
+Vražogrnac,2
+"Bumbarevo Brdo",2
+Maglić,2
+"Banovo Polje",2
+Sot,2
+Kusić,2
+Golobok,2
+Sakule,2
+"Donja Jajina",2
+Gložan,2
+Čoka,2
+"Velika Krsna",2
+Badnjevac,2
+Krušar,2
+Dražanj,2
+"Rudna Glava",2
+Grošnica,2
+Despotovo,2
+Luka,2
+"Višnjička Banja",2
+"Mali Iđoš",2
+Bajša,2
+Baćevac,2
+"Pocerski Pričinović",2
+Mršinci,2
+Adrani,2
+Ovča,2
+Pilatovići,2
+"Mala Moštanica",2
+"Bački Brestovac",2
+"Malo Crniće",2
+"Srpski Miletić",2
+Turija,2
+"Veliki Radinci",2
+Surduk,2
+Radinac,2
+Mihajlovo,1
+Grabovac,1
+Dubočka,1
+Jelašnica,1
+Gradašnica,1
+"Donja Borina",1
+"Donji Petrovci",1
+Kotraža,1
+Guberevac,1
+Buđanovci,1
+Predvorica,1
+Lubnica,1
+Sečanica,1
+Bačinci,1
+"Donje Crnatovo",1
+Busur,1
+Lukićevo,1
+Bogoslovija,1
+Pejinović,1
+Mozgovo,1
+"Prva Kutina",1
+Holandija,1
+Molovin,1
+Gajdobra,1
+"Velika Biljanica",1
+"Rusko Selo",1
+Krivaja,1
+Baličevac,1
+Kamenica,1
+"Gornja Stražava",1
+Strojkovce,1
+Majdevo,1
+Torak,1
+Šljivar,1
+Zlakusa,1
+Čantavir,1
+Bešenovo,1
+Radojevo,1
+Kolut,1
+Senjak,1
+Binovac,1
+Oblačina,1
+Zelenik,1
+Krnić,1
+Mošorin,1
+Ćirikovac,1
+"Osečina (Selo)",1
+"Novi Milanovac",1
+Joševa,1
+Tavnik,1
+Orljane,1
+Martinci,1
+Murgaš,1
+Subotište,1
+Grad,1
+šanac,1
+Buci,1
+"Donja Vrežina",1
+"Sremski Mihaljevci",1
+Torda,1
+"Novi Žednik",1
+Gardinovci,1
+Stupnica,1
+"Senjski Rudnik",1
+Jezgroviće,1
+Francuska,1
+Čokešina,1
+Batrovci,1
+Dobrinci,1
+Stopanja,1
+Urovica,1
+Kaonik,1
+Radičević,1
+Kličevac,1
+Divčibare,1
+"Kosovska Kamenica",1
+"Crvena Reka",1
+Hetin,1
+Bogovina,1
+Drakčići,1
+Pačir,1
+Kobišnica,1
+"Veliki Izvor",1
+"Kosjerić (selo)",1
+Strmovo,1
+"Lajkovac (Selo)",1
+Lešak,1
+Ašanja,1
+Podgorac,1
+Brvenik,1
+"Crveni Krst",1
+Izbište,1
+Mojković,1
+Kutleš,1
+"Banatska Palanka",1
+Maovi,1
+Štitar,1
+"Gornji Matejevac",1
+Milutovac,1
+"Stari Žednik",1
+Poskurice,1
+Bogosavac,1
+Mačkovac,1
+Nakučani,1
+Batovac,1
+Karavukovo,1
+"Ruda Bukva",1
+Kovači,1
+"Novi Bračin",1
+"Veliko Središte",1
+Gredetin,1
+Jošanica,1
+Jasika,1
+Trnovče,1
+Budišić,1
+Dragojevac,1
+Pejkovac,1
+Margita,1
+"Novi Kozjak",1
+Utrine,1
+Kozjak,1
+"Gornja Sabanta",1
+Divoš,1
+Guncati,1
+Gložane,1
+"Donja Trepča",1
+Jasenje,1
+Simićevo,1
+"Gojna Gora",1
+Glušci,1
+"Aleksa Šantić",1
+Matijevac,1
+Klupci,1
+Gunaroš,1
+Žitište,1
+"Banjsko Polje",1
+"Dobri Do",1
+Likodra,1
+Katun,1
+Šarlince,1
+"Salaš Noćajski",1
+"Novi Itebej",1
+"Stari Trstenik",1
+Sefkerin,1
+Ravnje,1
+Bubanj,1
+Radalj,1
+"Mala Drenova",1
+Metovnica,1
+Bratmilovce,1
+"Velika Reka",1
+Ždeglovo,1
+"Gornja Draguša",1
+Poljaci,1
+Prilepac,1
+Slovac,1
+"Veliki Borak",1
+"Donja Livadica",1
+Idvor,1
+Štulac,1
+Šavrane,1
+Metković,1
+Kacabać,1
+Pajazitovo,1
+Divostin,1
+"Veliki Šiljegovac",1
+Tomaševac,1
+Parage,1
+Dobrica,1
+Lepina,1
+Burdimo,1
+Bingula,1
+"Veliko Laole",1
+Osanica,1
+Kisiljevo,1
+Crnuzi,1
+Devča,1
+Zdravinje,1
+Gabrovac,1
+"Bunuški Čifluk",1
+Lalinac,1
+Osipaonica,1
+Straža,1
+Kočane,1
+"Donji Milanovac",1
+Nomanica,1
+Botoš,1
+Ečka,1
+Svojnovo,1
+Držanovac,1
+Bukorovac,1
+Jasenovik,1
+Rusna,1
+"Resavica (Selo)",1
+"Jaša Tomić",1
+Silbaš,1
+Bošnjane,1
+Zarožje,1
+"Donja Sabanta",1
+Glogonj,1
+Hajdučica,1
+Samarinovac,1
+Lipar,1
+Rožina,1
+"Gornje Stopanje",1
+"Novi Kozarci",1
+Poljna,1
+Ugljarevo,1
+"Salaš Crnobarski",1
+Kaznoviće,1
+Žabar,1
+Nozrina,1
+Vitojevci,1
+Drvodelja,1
+Maradik,1
+Vajuga,1
+Čerević,1
+Pudarci,1
+Kobilje,1
+Ljubinje,1
+Jasikovica,1
+Osladić,1
+Ivanovo,1
+"Donji Prisjan",1
+Mustapić,1
+Rubribreza,1
+Drača,1
+Sukovo,1
+Janošik,1
+Brštica,1
+Kulpin,1
+Sušica,1
+Sočanica,1
+Taor,1
+Bogovađa,1
+Kloka,1
+Svračkovci,1
+Brezjak,1
+Tulari,1
+"Veliki Gaj",1
+Sutjeska,1
+Čumić,1
+Njegoševo,1
+"Vračev Gaj",1
+Pričević,1
+Brodarevo,1
+Slatina,1
+Buljane,1
+Porodin,1
+Vuković,1
+Mezgraja,1
+"Donje Međurovo",1
+Udovice,1
+"Gornje Crnatovo",1
+Stubica,1
+Gakovo,1
+Plavna,1
+Baroševac,1
+Pridvorice,1
+"Gornja Rogatica",1
+Negbina,1
+Salaš,1
+Krajišnik,1
+"Banatsko Karađorđevo",1
+Boževac,1
+Vitanovac,1
+Čokot,1
+Ljutovo,1
+Ilandža,1
+Čalma,1
+"Selo Kostolac",1
+Pranjani,1
+Cerovac,1
+Šapine,1
+Lipe,1
+Štubik,1
+"Lipnički Šor",1
+"Gornji Bunibrod",1
+Doroslovo,1
+Desimirovac,1
+Kumarevo,1
+Dedinje,1
+"Milićevo Selo",1
+Obrež,1
+Azanja,1
+Jazak,1
+Krnješevci,1
+Boka,1
+"Zubin Potok",1
+Keserovina,1
+Višnjica,1
+Bačevci,1
+"Mala Krsna",1
+Baničina,1
+Brza,1
+Malošište,1
+Konarevo,1
+Karan,1
+Tekija,1
+Vraneši,1
+Konjevići,1
+Brzohode,1
+"Mali Beograd",1
+Brestovik,1
+"Predejane (Varoš)",1
+Jasenica,1
+Trućevac,1
+Grevci,1
+Miloševac,1
+"Donja Šatornja",1
+Zablaće,1
+"Brzi Brod",1
+Jovac,1
+Dušanovac,1
+Crnča,1

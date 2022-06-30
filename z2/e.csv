@@ -1,0 +1,614 @@
+idOglasa,cena,stanje,marka,model,godiste,kilometraza,karoserija,gorivo,kubikaza,snagaMotora,menjac,brojVrata,boja,lokacijaProdavca
+18808403,275900,"Polovno vozilo","Mercedes Benz","GLS 600",2021,3000,Džip/SUV,Benzin,3982,557,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19914157,195000,"Polovno vozilo",Porsche,911,2021,5000,Kupe,Benzin,3000,450,"Automatski / poluautomatski ",2,"Krem ",Prigrevica
+19887936,191900,"Polovno vozilo","Mercedes Benz","G 400",2022,1000,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19383134,190900,"Polovno vozilo",Porsche,911,2021,12000,Kabriolet/Roadster,Benzin,2981,450,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19963538,179900,"Polovno vozilo","Mercedes Benz","GLE 63 AMG",2021,15000,Džip/SUV,Benzin,3982,612,"Automatski / poluautomatski ",4,"Crna ",Temerin
+19383029,175900,"Polovno vozilo","Mercedes Benz","GLE 63 AMG",2022,12000,Džip/SUV,Benzin,3982,612,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19941276,174900,"Polovno vozilo","Mercedes Benz","G 400",2021,25000,Džip/SUV,Dizel,3000,330,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+19398268,169900,"Polovno vozilo","Mercedes Benz","S 580",2021,8000,Limuzina,Benzin,3982,503,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19067328,169000,"Polovno vozilo","Mercedes Benz","G 400",2021,16900,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Siva ",Niš
+19922785,169000,"Polovno vozilo","Mercedes Benz","S 400",2022,5500,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Zlatna ","Novi Pazar"
+19383108,165900,"Polovno vozilo","Mercedes Benz","S 500",2021,4000,Limuzina,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19636534,159000,"Polovno vozilo","Mercedes Benz","S 500",2021,13000,Limuzina,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19383071,155900,"Polovno vozilo","Mercedes Benz","S 400",2021,15000,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19383044,148900,"Polovno vozilo","Mercedes Benz","GLS 580",2021,12000,Džip/SUV,Benzin,3982,489,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19500902,143500,"Polovno vozilo","Mercedes Benz","GLS 580",2021,8800,Džip/SUV,Benzin,3982,489,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19009781,139990,"Polovno vozilo","Mercedes Benz","S 400",2021,27157,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19896501,139900,"Polovno vozilo","Mercedes Benz","S 400",2021,7200,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ","Novi Beograd"
+20042474,139000,"Polovno vozilo","Mercedes Benz","S 350",2021,35000,Limuzina,Dizel,2925,286,"Automatski / poluautomatski ",4,"Crna ","Novi Sad"
+19383080,138900,"Polovno vozilo","Mercedes Benz","S 400",2021,8000,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19663757,137900,"Polovno vozilo","Mercedes Benz","S 400",2021,19000,Limuzina,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Temerin
+19563736,137356,"Novo vozilo",Audi,A8,2022,0,Limuzina,Dizel,2967,286,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19511673,127900,"Polovno vozilo","Mercedes Benz","GLS 400",2021,17000,Džip/SUV,Dizel,3000,330,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+19290737,122500,"Polovno vozilo","Mercedes Benz","GLE 53 AMG",2021,5000,Džip/SUV,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19853914,119900,"Polovno vozilo","Mercedes Benz","GLE 580",2021,7500,Džip/SUV,Benzin,3982,489,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+18897721,119000,"Polovno vozilo","Mercedes Benz","GLS 500",2021,15000,Džip/SUV,Benzin,2999,367,"Automatski / poluautomatski ",4,"Siva ","NOVI SAD"
+20012770,114990,"Novo vozilo",BMW,X6,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+19996488,114108,"Novo vozilo",BMW,X6,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Zelena ",Mladenovac
+19996570,112753,"Novo vozilo",BMW,X6,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Bela ",Mladenovac
+19606112,110000,"Polovno vozilo","Mercedes Benz","GLE 400",2021,27000,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Bela ",Zemun
+19663102,110000,"Polovno vozilo",BMW,850,2021,19000,Kupe,Benzin,4395,530,"Automatski / poluautomatski ",2,"Plava ","Sremska Mitrovica"
+19694529,110000,"Polovno vozilo",BMW,X6,2021,9500,Džip/SUV,Dizel,3000,286,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+19793551,109990,"Polovno vozilo",BMW,X6,2021,5219,Džip/SUV,Dizel,2993,340,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19864653,109990,"Polovno vozilo",BMW,X6,2021,19000,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Crvena ",Veternik
+19865702,109990,"Polovno vozilo",BMW,X5,2021,13529,Džip/SUV,Dizel,2993,340,"Automatski / poluautomatski ",4,"Bela ",Veternik
+20000582,108964,"Novo vozilo",BMW,X5,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19999718,108542,"Novo vozilo",BMW,X5,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+19694782,108500,"Polovno vozilo",BMW,X6,2021,14000,Džip/SUV,Dizel,3000,286,"Automatski / poluautomatski ",4,"Bela ",Prigrevica
+18792673,108000,"Novo vozilo",BMW,X6,2021,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19996394,107018,"Novo vozilo",BMW,X5,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Bela ",Mladenovac
+19865537,106990,"Polovno vozilo",BMW,X5,2021,10531,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Plava ",Veternik
+19589147,106900,"Novo vozilo",BMW,X5,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19622853,106500,"Polovno vozilo",BMW,X6,2021,29000,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Bela ",Šabac
+19149714,105990,"Polovno vozilo",BMW,X5,2021,14500,Džip/SUV,Dizel,2993,340,"Automatski / poluautomatski ",4,"Plava ",Beograd
+20027096,105990,"Polovno vozilo",BMW,840,2021,12000,Limuzina,Dizel,2993,340,"Automatski / poluautomatski ",4,"Crna ",Veternik
+20044873,105900,"Polovno vozilo",BMW,M4,2021,3900,Kupe,Benzin,2993,510,"Automatski / poluautomatski ",2,"Žuta ",Mladenovac
+19990247,105529,"Novo vozilo",Audi,Q8,2022,0,Džip/SUV,Benzin,2995,340,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19549261,103186,"Novo vozilo",BMW,X5,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+20065907,102485,"Novo vozilo",BMW,X5,2022,0,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Plava ",Veternik
+19733765,99990,"Polovno vozilo",Porsche,Macan,2021,18300,Džip/SUV,Benzin,2894,381,"Automatski / poluautomatski ",4,"Braon ",Beograd
+19909547,99990,"Polovno vozilo",BMW,X5,2022,3000,Džip/SUV,"Hibridni pogon",2998,393,"Automatski / poluautomatski ",4,"Crna ",Niš
+19673413,98000,"Polovno vozilo",BMW,X5,2021,7000,Džip/SUV,Dizel,2993,340,"Automatski / poluautomatski ",4,"Crna ",Zemun
+19662069,96990,"Polovno vozilo",BMW,740,2021,42000,Limuzina,Dizel,2996,340,"Automatski / poluautomatski ",4,"Crna ",Altina
+18950727,95990,"Polovno vozilo",BMW,730,2021,22000,Limuzina,Dizel,2993,286,"Automatski / poluautomatski ",4,"Siva ",Veternik
+18826873,94990,"Polovno vozilo",BMW,X5,2021,3,Džip/SUV,Dizel,2993,286,"Automatski / poluautomatski ",4,"Crna ",Niš
+19899232,94900,"Polovno vozilo","Mercedes Benz","GLE 300",2022,8,Džip/SUV,Dizel,1993,272,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+19556319,94000,"Polovno vozilo",BMW,X5,2021,17000,Džip/SUV,"Hibridni pogon",3000,287,"Automatski / poluautomatski ",4,"Zelena ","Bajina Bašta"
+19743961,93500,"Polovno vozilo","Land Rover",Defender,2021,23630,Džip/SUV,Dizel,1999,241,"Automatski / poluautomatski ",4,"Braon ",Beograd
+19744091,93500,"Polovno vozilo","Land Rover",Defender,2021,15738,Džip/SUV,Dizel,1999,241,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19945918,91700,"Polovno vozilo","Alfa Romeo",Stelvio,2021,5250,Džip/SUV,Benzin,2891,510,"Automatski / poluautomatski ",4,"Crna ",Kragujevac
+18788346,91000,"Polovno vozilo",BMW,730,2021,36000,Limuzina,Dizel,2999,286,"Automatski / poluautomatski ",4,"Crna ",Zvezdara
+19270818,89990,"Polovno vozilo",BMW,730,2021,13360,Limuzina,Dizel,2993,286,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19271814,89985,"Novo vozilo",Audi,S6,2022,0,Limuzina,Dizel,2967,344,"Automatski / poluautomatski ",4,"Crna ",Beograd
+20024479,88700,"Polovno vozilo",Audi,RS3,2021,4000,Limuzina,Benzin,2500,400,"Automatski / poluautomatski ",4,"Zelena ",Prigrevica
+20058811,87062,"Novo vozilo","Mercedes Benz","CLS 300",2022,5,Kupe,Dizel,1993,265,"Automatski / poluautomatski ",4,"Siva ","Novi Pazar"
+20066889,86990,"Polovno vozilo",Volvo,XC90,2021,24000,Džip/SUV,"Hibridni pogon",1969,390,"Automatski / poluautomatski ",4,"Plava ",Beograd
+19383050,85900,"Polovno vozilo",Audi,"RS Q3",2021,6000,Džip/SUV,Benzin,2480,400,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19744040,84600,"Polovno vozilo","Land Rover",Defender,2021,23292,Džip/SUV,Dizel,2993,249,"Automatski / poluautomatski ",2,"Bela ",Beograd
+19808591,83990,"Polovno vozilo",Porsche,Boxster,2021,14300,Kabriolet/Roadster,Benzin,1998,299,"Automatski / poluautomatski ",2,"Crna ",Beograd
+19733629,82990,"Novo vozilo",Ford,Explorer,2022,1,Džip/SUV,"Hibridni pogon",2998,457,"Automatski / poluautomatski ",4,"Bela ",Šabac
+19758883,82990,"Novo vozilo",Ford,Explorer,2021,0,Džip/SUV,"Hibridni pogon",2956,457,"Automatski / poluautomatski ",4,"Plava ",Beograd
+19614133,79474,"Novo vozilo",Audi,"RS Q3",2022,0,Džip/SUV,Benzin,2480,400,"Automatski / poluautomatski ",4,"Crvena ",Beograd
+19688966,77700,"Polovno vozilo",BMW,X4,2021,12000,Džip/SUV,Dizel,1995,190,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19347565,76990,"Polovno vozilo",Volvo,XC60,2021,8115,Džip/SUV,"Hibridni pogon",1969,390,"Automatski / poluautomatski ",4,"Bela ",Beograd
+20035416,76990,"Polovno vozilo",BMW,530,2022,8000,Limuzina,"Hibridni pogon",1998,292,"Automatski / poluautomatski ",4,"Crna ",Beograd
+18450174,75500,"Polovno vozilo",BMW,X4,2022,3,Džip/SUV,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crvena ",Niš
+18766315,75500,"Polovno vozilo","Land Rover",Defender,2021,18000,Džip/SUV,Dizel,2997,200,"Automatski / poluautomatski ",4,"Zelena ",Mladenovac
+18792242,75000,"Novo vozilo",BMW,X4,2021,0,Džip/SUV,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19870382,74990,"Polovno vozilo","Mercedes Benz","E 400",2021,30487,Karavan,Dizel,2925,340,"Automatski / poluautomatski ",4,"Siva ","Novi Beograd"
+20048309,74990,"Polovno vozilo",BMW,540,2021,28000,Limuzina,Dizel,2993,340,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19117173,74160,"Novo vozilo",BMW,520,2022,0,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+19163410,71990,"Polovno vozilo",BMW,440,2021,14782,Kupe,Dizel,2993,340,"Automatski / poluautomatski ",2,"Zelena ",Veternik
+20014100,71990,"Polovno vozilo",Volvo,XC90,2021,7000,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Siva ",Beograd
+20054024,71990,"Polovno vozilo",BMW,540,2021,28500,Limuzina,Dizel,2993,340,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19314544,70689,"Novo vozilo",BMW,"M 340i",2022,0,Limuzina,Benzin,2993,374,"Automatski / poluautomatski ",4,"Narandžasta ",Veternik
+18764867,70500,"Polovno vozilo",BMW,X3,2022,2,Džip/SUV,Dizel,1995,189,"Automatski / poluautomatski ",4,"Siva ",Niš
+19663119,69990,"Polovno vozilo",Volvo,XC90,2021,23429,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19789922,69990,"Polovno vozilo",Volvo,XC90,2021,26264,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19873874,69990,"Polovno vozilo",Volvo,XC90,2021,25617,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19930416,69990,"Polovno vozilo",Volvo,XC90,2021,18100,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Plava ",Beograd
+20049827,69990,"Polovno vozilo",BMW,530,2021,28500,Limuzina,Dizel,2993,286,"Automatski / poluautomatski ",4,"Siva ",Veternik
+20052606,69990,"Polovno vozilo",BMW,530,2021,17500,Limuzina,Dizel,2993,286,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19313646,69344,"Novo vozilo",BMW,420,2022,0,Kupe,Benzin,1998,184,"Automatski / poluautomatski ",2,"Braon ",Veternik
+19060401,69000,"Polovno vozilo","Land Rover","Range Rover Evoque",2021,9900,Džip/SUV,Dizel,1999,163,"Automatski / poluautomatski ",4,"Siva ","Stari Grad"
+20063032,69000,"Polovno vozilo","Mercedes Benz","GLC 43 AMG",2021,13298,Džip/SUV,Benzin,2996,390,"Automatski / poluautomatski ",4,"Crna ","Novi Beograd"
+19976488,68990,"Polovno vozilo",Volvo,XC90,2021,17671,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Crna ","Novi Sad"
+19484765,67990,"Polovno vozilo",BMW,420,2021,8000,Kupe,Dizel,1995,190,"Automatski ",2,"Crvena ",Beograd
+19734242,67990,"Polovno vozilo",Volvo,XC90,2021,23131,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Bela ",Beograd
+18228633,66990,"Polovno vozilo",Audi,Q5,2021,10000,Džip/SUV,Dizel,1968,204,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19427727,66463,"Novo vozilo",BMW,420,2022,0,Kupe,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19615434,65990,"Polovno vozilo",Volvo,XC90,2021,15457,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Plava ",Beograd
+20028252,65990,"Polovno vozilo",Volvo,V90,2021,11000,Karavan,Dizel,1969,197,"Automatski / poluautomatski ",4,"Plava ",Beograd
+19126906,65000,"Polovno vozilo",BMW,340i,2022,2500,Limuzina,Benzin,2998,374,"Automatski / poluautomatski ",4,"Crna ",Niš
+18704698,64990,"Novo vozilo",BMW,"M 340i",2021,0,Limuzina,Benzin,2998,374,"Automatski / poluautomatski ",4,"Crna ","Novi Beograd"
+19505030,64990,"Novo vozilo",BMW,520,2021,0,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Siva ",Čačak
+19604655,64990,"Polovno vozilo",BMW,520,2021,28184,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Bela ",Veternik
+19638425,64990,"Polovno vozilo",BMW,520,2022,300,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crna ",Niš
+20026529,64990,"Polovno vozilo",BMW,520,2021,27251,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Siva ",Veternik
+20044416,64990,"Polovno vozilo",BMW,530,2021,28300,Limuzina,Benzin,1998,252,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19552163,64500,"Polovno vozilo",Volkswagen,Tiguan,2021,15000,Džip/SUV,Benzin,2000,320,"Automatski / poluautomatski ",4,"Plava ",Prigrevica
+19432006,64420,"Novo vozilo",BMW,Z4,2022,0,Kabriolet/Roadster,Benzin,1998,197,"Automatski / poluautomatski ",2,"Crvena ",Veternik
+18854062,63990,"Polovno vozilo",BMW,520,2021,8000,Limuzina,Dizel,1995,190,"Automatski ",4,"Siva ",Beograd
+19813071,63000,"Polovno vozilo",BMW,440,2021,12600,Kupe,Benzin,2998,374,"Automatski / poluautomatski ",2,"Plava ",Veternik
+18705601,62990,"Polovno vozilo",BMW,520,2021,9500,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crna ",Beograd
+20023003,62990,"Polovno vozilo",BMW,520,2021,17000,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Siva ",Veternik
+20028275,62990,"Polovno vozilo",Volvo,V90,2021,25000,Karavan,Dizel,1969,197,"Automatski / poluautomatski ",4,"Siva ",Beograd
+20066253,62990,"Polovno vozilo",BMW,520,2021,19000,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19041486,62900,"Polovno vozilo",Volkswagen,"Golf 8",2021,12500,Hečbek,Benzin,2000,320,"Automatski / poluautomatski ",4,"Plava ",Prigrevica
+19838307,62500,"Polovno vozilo",BMW,X4,2021,2900,Džip/SUV,Dizel,1995,190,"Automatski / poluautomatski ",4,"Siva ",Veternik
+19744281,61000,"Polovno vozilo",BMW,520,2021,24000,Limuzina,Dizel,2000,190,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+19654050,60990,"Polovno vozilo",BMW,520,2021,25599,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crna ","Novi Beograd"
+18734600,60600,"Novo vozilo",Jeep,Wrangler,2022,0,Džip/SUV,Benzin,1995,272,"Automatski / poluautomatski ",4,"Crvena ",Kragujevac
+19202850,60500,"Polovno vozilo",Volkswagen,"Golf 8",2021,10500,Hečbek,Benzin,1984,320,"Automatski / poluautomatski ",4,"Plava ",Kragujevac
+19986207,59990,"Novo vozilo","Land Rover",Defender,2022,0,Džip/SUV,Dizel,2999,250,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19327903,59950,"Polovno vozilo",Audi,Q5,2021,24000,Džip/SUV,Dizel,1968,204,"Automatski / poluautomatski ",4,"Crna ",Pančevo
+19833931,59950,"Polovno vozilo",Audi,A6,2021,29000,Limuzina,Benzin,1984,367,"Automatski / poluautomatski ",4,"Bela ",Pančevo
+18742302,59400,"Novo vozilo",Toyota,Hilux,2022,2,Pickup,Dizel,2755,204,"Automatski / poluautomatski ",4,"Crna ","Novi Sad"
+18792857,59339,"Novo vozilo",Kia,Sorento,2021,10,Džip/SUV,Dizel,2199,203,"Automatski / poluautomatski ",4,"Bela ","Novi Sad"
+19769513,58990,"Polovno vozilo",Volvo,XC60,2021,23500,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Plava ",Beograd
+20012347,58990,"Polovno vozilo",BMW,520,2021,36600,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crna ",Beograd
+18455390,58949,"Novo vozilo",Audi,S3,2021,0,Limuzina,Benzin,1984,310,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19800054,58900,"Polovno vozilo",Audi,A6,2021,19390,Limuzina,Dizel,1968,204,"Automatski / poluautomatski ",4,"Siva ",Čačak
+19923117,58490,"Polovno vozilo",Volvo,XC60,2021,11700,Džip/SUV,Dizel,1969,197,"Automatski / poluautomatski ",4,"Crna ",Beograd
+20028337,57990,"Polovno vozilo",Volvo,XC60,2021,10500,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Crna ",Beograd
+20035371,57990,"Polovno vozilo",BMW,320,2022,8000,Limuzina,"Hibridni pogon",1998,204,"Automatski / poluautomatski ",4,"Bela ",Beograd
+18939705,57900,"Polovno vozilo",Volkswagen,"Golf 8",2021,9400,Hečbek,Benzin,1984,320,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19810335,57450,"Novo vozilo","Alfa Romeo",Stelvio,2022,0,Džip/SUV,Benzin,1995,280,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19810338,57450,"Novo vozilo","Alfa Romeo",Stelvio,2022,0,Džip/SUV,Benzin,1995,280,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19743853,57100,"Polovno vozilo","Land Rover","Discovery Sport",2021,12895,Džip/SUV,Dizel,1999,165,"Automatski / poluautomatski ",4,"Bela ",Beograd
+20017168,57000,"Novo vozilo","Alfa Romeo",Stelvio,2022,0,Džip/SUV,Benzin,1995,280,"Automatski / poluautomatski ",4,"Siva ","Novi Sad"
+19764913,56990,"Polovno vozilo",BMW,420,2021,3500,Kupe,Benzin,1998,184,"Automatski / poluautomatski ",2,"Crna ",Beograd
+19977653,56990,"Polovno vozilo",Volvo,XC60,2021,25588,Džip/SUV,Dizel,1969,235,"Automatski / poluautomatski ",4,"Siva ","Novi Sad"
+20034178,56990,"Polovno vozilo",BMW,520,2021,14500,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Siva ","Bežanijska Kosa"
+20067838,56990,"Polovno vozilo",Volvo,XC60,2021,15035,Džip/SUV,Dizel,1969,197,"Automatski / poluautomatski ",4,"Plava ",Beograd
+20067880,56990,"Polovno vozilo",Volvo,XC60,2021,23500,Džip/SUV,Dizel,1969,197,"Automatski / poluautomatski ",4,"Bela ",Beograd
+20067910,56990,"Polovno vozilo",Volvo,XC60,2021,18700,Džip/SUV,Dizel,1969,197,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19035443,56900,"Polovno vozilo",Volkswagen,"Golf 8",2021,25000,Hečbek,Benzin,1984,320,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19757782,56690,"Novo vozilo",Hyundai,"Santa Fe",2022,0,Džip/SUV,Dizel,2151,203,"Automatski / poluautomatski ",4,"Crna ",Niš
+19922727,56000,"Novo vozilo","Alfa Romeo",Stelvio,2022,0,Džip/SUV,Benzin,1995,280,"Automatski / poluautomatski ",4,"Bela ",Kragujevac
+19905802,55990,"Polovno vozilo","Mercedes Benz","E 220",2021,37565,Limuzina,Dizel,1950,194,"Automatski / poluautomatski ",4,"Crna ","Novi Beograd"
+20024755,54950,"Polovno vozilo",BMW,520,2021,20000,Limuzina,"Hibridni pogon",1995,190,"Automatski / poluautomatski ",4,"Siva ",Pančevo
+19981322,54800,"Polovno vozilo","Mercedes Benz","E 220",2021,20128,Limuzina,Dizel,1950,194,"Automatski / poluautomatski ",4,"Crna ",Niš
+19912900,54000,"Polovno vozilo",Ford,Ranger,2021,17000,Pickup,Dizel,2000,212,"Automatski / poluautomatski ",4,"Plava ",Ripanj
+18972392,53990,"Polovno vozilo",Volvo,S60,2021,10507,Limuzina,Benzin,1969,250,"Automatski / poluautomatski ",4,"Srebrna ",Beograd
+19969704,53990,"Polovno vozilo","Mercedes Benz","GLC 200",2021,12147,Džip/SUV,Dizel,1950,163,"Automatski / poluautomatski ",4,"Siva ","Novi Beograd"
+19466038,53298,"Novo vozilo",BMW,318,2022,0,Limuzina,Benzin,1998,156,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+20022400,52999,"Polovno vozilo",Volkswagen,Tiguan,2021,22900,Džip/SUV,Dizel,1995,200,"Automatski / poluautomatski ",4,"Crna ",Zemun
+19063005,52500,"Polovno vozilo",Audi,A6,2021,3654,Limuzina,Dizel,1986,204,"Automatski / poluautomatski ",4,"Plava ",Lazarevac
+20064760,52500,"Polovno vozilo",BMW,X1,2022,800,Džip/SUV,Dizel,1995,150,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19531799,51990,"Polovno vozilo",BMW,X3,2021,16420,Džip/SUV,Dizel,1995,189,"Automatski / poluautomatski ",4,"Bela ",Niš
+19342842,51900,"Polovno vozilo",BMW,X3,2021,21500,Džip/SUV,Dizel,1995,190,"Automatski / poluautomatski ",4,"Bela ",Leskovac
+19928246,50190,"Novo vozilo",Hyundai,Staria,2022,0,"Monovolumen (MiniVan)",Dizel,2199,177,"Automatski / poluautomatski ",4,"Teget ",Niš
+19809886,49990,"Polovno vozilo",Volvo,S60,2021,4782,Limuzina,Benzin,1969,163,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19873920,49990,"Polovno vozilo",Volvo,XC40,2021,16484,Džip/SUV,Benzin,1969,197,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19684294,49176,"Novo vozilo",BMW,X1,2022,0,Džip/SUV,Dizel,1995,150,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+19035542,48900,"Polovno vozilo",Volkswagen,"Golf 8",2021,3000,Hečbek,Benzin,1984,300,"Automatski / poluautomatski ",4,"Crvena ",Beograd
+19684173,48800,"Novo vozilo",BMW,X1,2022,0,Džip/SUV,Dizel,1995,150,"Automatski / poluautomatski ",4,"Bela ",Mladenovac
+19074313,48400,"Novo vozilo",BMW,218,2022,0,Hečbek,Dizel,1995,150,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+16887244,48200,"Novo vozilo",Toyota,"RAV 4",2022,2,Džip/SUV,"Hibridni pogon",2487,222,"Automatski / poluautomatski ",4,"Siva ","Novi Sad"
+19637362,48000,"Polovno vozilo",Ford,Ranger,2021,12000,Džip/SUV,Dizel,1998,212,"Automatski / poluautomatski ",4,"Siva ",Čačak
+20067558,47990,"Polovno vozilo",BMW,320,2021,14000,Limuzina,Dizel,1995,190,"Automatski / poluautomatski ",4,"Plava ","Bežanijska Kosa"
+20065876,47947,"Novo vozilo",Škoda,Kodiaq,2022,0,Džip/SUV,Dizel,1968,200,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19798313,46990,"Polovno vozilo",Jaguar,E-Pace,2021,24000,Džip/SUV,Dizel,1999,165,"Automatski / poluautomatski ",4,"Siva ",Beograd
+18808557,46900,"Polovno vozilo",Volkswagen,"Golf 8",2021,5000,Hečbek,Benzin,1968,300,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19886219,46900,"Polovno vozilo",Volkswagen,"Golf 8",2021,9700,Hečbek,Benzin,1995,299,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19329461,46309,"Novo vozilo",BMW,318,2022,0,Limuzina,Benzin,1998,156,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19329487,46309,"Novo vozilo",BMW,318,2022,0,Limuzina,Benzin,1998,156,"Automatski / poluautomatski ",4,"Siva ",Veternik
+19809142,45490,"Polovno vozilo",BMW,X2,2021,8000,Džip/SUV,Dizel,1995,150,"Automatski / poluautomatski ",4,"Zlatna ",Beograd
+19313815,44940,"Novo vozilo",BMW,218,2022,0,Limuzina,Benzin,1499,136,"Automatski / poluautomatski ",4,"Siva ",Veternik
+19314121,44940,"Novo vozilo",BMW,218,2022,0,Limuzina,Benzin,1499,136,"Automatski / poluautomatski ",4,"Plava ",Veternik
+15396436,44790,"Novo vozilo",Renault,Koleos,2022,5,Džip/SUV,Dizel,1995,190,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19774300,44500,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,"Hibridni pogon",1332,240,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19284598,43500,"Polovno vozilo",Audi,A4,2021,20654,Limuzina,Dizel,1968,163,"Automatski / poluautomatski ",4,"Siva ",Čačak
+19425641,43490,"Novo vozilo",BMW,318,2022,0,Limuzina,Benzin,1998,156,"Automatski / poluautomatski ",4,"Bela ",Čačak
+19917538,43360,"Novo vozilo",Volkswagen,"Passat B8",2022,0,Limuzina,Dizel,1968,150,"Automatski / poluautomatski ",4,"Crna ",Kragujevac
+19196635,42999,"Polovno vozilo","Mercedes Benz","CLA 200",2021,20000,Limuzina,Dizel,1950,150,"Automatski / poluautomatski ",4,"Crna ","Novi Beograd"
+19999565,42990,"Polovno vozilo",Škoda,Superb,2022,2516,Limuzina,Dizel,1995,200,"Automatski / poluautomatski ",4,"Crna ","Novi Beograd"
+19960884,42900,"Polovno vozilo",Škoda,Kodiaq,2021,2000,Džip/SUV,Dizel,1968,190,"Automatski / poluautomatski ",4,"Siva ",Čačak
+18707908,42590,"Novo vozilo",Honda,CR-V,2022,0,Džip/SUV,Benzin,1498,193,"Automatski / poluautomatski ",4,"Siva ","Novi Beograd"
+18591070,42400,"Novo vozilo",Toyota,Hilux,2022,2,Pickup,Dizel,2393,150,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+18194707,42000,"Novo vozilo",Toyota,Camry,2022,2,Limuzina,"Hibridni pogon",2487,211,"Automatski / poluautomatski ",4,"Bela ","Novi Sad"
+19594352,41999,"Polovno vozilo","Mercedes Benz","C 180",2021,20000,Limuzina,Benzin,1497,170,"Automatski / poluautomatski ",4,"Bela ","Novi Beograd"
+19329406,41990,"Novo vozilo",BMW,318,2022,0,Limuzina,Benzin,1998,156,"Automatski / poluautomatski ",4,"Bela ",Veternik
+20062707,41990,"Polovno vozilo","Mercedes Benz","C 180",2021,16626,Limuzina,Benzin,1497,156,"Automatski / poluautomatski ",4,"Siva ","Novi Beograd"
+15382634,41754,"Novo vozilo",Škoda,Kodiaq,2022,0,Džip/SUV,Dizel,1968,200,"Automatski / poluautomatski ",4,"Plava ",Veternik
+19794409,41750,"Polovno vozilo",Volvo,XC40,2021,9870,Džip/SUV,Benzin,1969,200,"Automatski / poluautomatski ",4,"Siva ",Pančevo
+19989871,41716,"Novo vozilo",Škoda,Kodiaq,2022,0,Džip/SUV,Dizel,1968,200,"Manuelni 6 brzina ",4,"Crna ",Valjevo
+18880261,40990,"Polovno vozilo",BMW,X1,2021,8000,Džip/SUV,Dizel,1995,150,"Automatski ",4,"Plava ",Beograd
+20052614,40990,"Novo vozilo",Ford,Kuga,2022,0,Džip/SUV,"Hibridni pogon",2488,190,"Automatski / poluautomatski ",4,"Srebrna ",Beograd
+19717899,40824,"Novo vozilo",Volkswagen,"Passat B8",2022,11,Limuzina,Dizel,1968,150,"Automatski / poluautomatski ",4,"Siva ",Niš
+19954778,40600,"Polovno vozilo",Volkswagen,"Passat B8",2022,5,Limuzina,Dizel,1968,150,"Automatski / poluautomatski ",4,"Crna ",Šabac
+19808359,40594,"Novo vozilo",Seat,Ateca,2022,0,Džip/SUV,Dizel,1968,150,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19837146,40500,"Novo vozilo",Subaru,Forester,2022,0,Džip/SUV,Benzin,1995,150,"Automatski / poluautomatski ",4,"Zelena ","Novi Sad"
+19956030,40287,"Novo vozilo",Volkswagen,"Passat B8",2022,3,Limuzina,Dizel,1968,150,"Automatski / poluautomatski ",4,"Crna ",Niš
+17998436,39990,"Novo vozilo",Isuzu,D-Max,2022,2,Pickup,Dizel,1898,163,"Automatski / poluautomatski ",4,"Narandžasta ","Novi Sad"
+18076118,39990,"Novo vozilo",Isuzu,D-Max,2021,0,Pickup,Dizel,1889,163,"Automatski / poluautomatski ",4,"Plava ","Bačka Topola"
+19548071,39990,"Polovno vozilo",BMW,318,2021,22000,Limuzina,Dizel,1995,150,"Automatski ",4,"Plava ",Beograd
+19774950,39990,"Polovno vozilo",BMW,X1,2022,2,Džip/SUV,Dizel,1995,150,"Automatski / poluautomatski ",4,"Crna ",Niš
+19991073,39990,"Polovno vozilo",MINI,Countryman,2021,12803,Hečbek,Benzin,1998,178,"Automatski / poluautomatski ",4,"Zelena ",Beograd
+14663917,39940,"Novo vozilo",Renault,Koleos,2022,5,Džip/SUV,Dizel,1995,190,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19260172,39900,"Polovno vozilo",Volkswagen,"Golf 8",2021,26507,Hečbek,Benzin,1984,245,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19963752,39900,"Polovno vozilo",Škoda,Octavia,2021,21000,Limuzina,Benzin,1968,245,"Automatski / poluautomatski ",4,"Plava ",Temerin
+19975276,39900,"Polovno vozilo",Škoda,Octavia,2021,21000,Limuzina,Dizel,1985,200,"Automatski / poluautomatski ",4,"Crna ",Temerin
+19989968,39896,"Novo vozilo",Škoda,Kodiaq,2022,0,Džip/SUV,Dizel,1968,200,"Automatski / poluautomatski ",4,"Crna ",Valjevo
+20032947,39826,"Polovno vozilo",Škoda,Kodiaq,2022,2,Džip/SUV,Dizel,1968,200,"Automatski / poluautomatski ",4,"Crna ",Šabac
+18703943,39290,"Novo vozilo",Honda,CR-V,2022,0,Džip/SUV,Benzin,1498,193,"Automatski / poluautomatski ",4,"Crvena ","Novi Beograd"
+19923020,39290,"Novo vozilo",Honda,CR-V,2022,0,Džip/SUV,Benzin,1498,193,"Automatski / poluautomatski ",4,"Crvena ",Niš
+17088162,39150,"Novo vozilo",Toyota,C-HR,2022,2,Džip/SUV,"Hibridni pogon",1997,184,"Automatski / poluautomatski ",4,"Bela ","Novi Sad"
+18853887,38590,"Novo vozilo",Honda,CR-V,2021,0,Džip/SUV,Benzin,1498,193,"Automatski / poluautomatski ",4,"Crna ","Novi Sad"
+19584323,38388,"Polovno vozilo",Ford,"Tourneo Custom",2021,10640,"Monovolumen (MiniVan)",Dizel,1995,185,"Automatski / poluautomatski ",4,"Srebrna ","Novi Sad"
+20060187,38000,"Polovno vozilo",BMW,318,2021,10300,Limuzina,Benzin,1998,156,"Automatski / poluautomatski ",4,"Crna ",Beograd
+20047653,37990,"Polovno vozilo",MINI,"Cooper S",2022,10000,Hečbek,Benzin,1998,178,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19895296,37390,"Novo vozilo",Peugeot,3008,2022,1,Džip/SUV,Dizel,1499,131,"Automatski / poluautomatski ",4,"Bela ",Zrenjanin
+18194418,37000,"Novo vozilo",Toyota,C-HR,2022,2,Džip/SUV,"Hibridni pogon",1798,122,"Automatski / poluautomatski ",4,"Siva ","Novi Sad"
+19707781,36990,"Polovno vozilo",MINI,"Cooper S",2021,7131,Hečbek,Benzin,1998,178,"Automatski / poluautomatski ",2,"Siva ",Veternik
+19582649,36490,"Novo vozilo",Hyundai,Sonata,2021,0,Limuzina,Benzin,2497,179,"Automatski / poluautomatski ",4,"Teget ",Niš
+19827520,36490,"Novo vozilo",Hyundai,Staria,2022,0,"Monovolumen (MiniVan)",Dizel,2199,177,"Manuelni 6 brzina ",4,"Bela ",Niš
+20047698,36490,"Polovno vozilo",Toyota,Camry,2021,18460,Limuzina,"Hibridni pogon",2487,178,"Automatski / poluautomatski ",4,"Crna ",Beograd
+18370359,36390,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Benzin,1598,179,"Automatski / poluautomatski ",4,"Zelena ","Novi Sad"
+17951313,35900,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1898,163,"Automatski / poluautomatski ",4,"Crna ","Novi Sad"
+18446811,35900,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1889,163,"Automatski / poluautomatski ",4,"Narandžasta ","Bačka Topola"
+18832106,35900,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1898,163,"Automatski / poluautomatski ",4,"Crvena ","Bačka Topola"
+19633382,35900,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1898,163,"Automatski / poluautomatski ",4,"Plava ","Bačka Topola"
+20058105,35900,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1898,163,"Automatski / poluautomatski ",4,"Crna ","Bačka Topola"
+19895088,35890,"Novo vozilo",Peugeot,3008,2022,1,Džip/SUV,Dizel,1499,131,"Manuelni 6 brzina ",4,"Bela ",Zrenjanin
+19688866,35800,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,"Hibridni pogon",1469,150,"Automatski / poluautomatski ",4,"Srebrna ",Kragujevac
+19774088,35800,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,Benzin,1469,150,"Automatski / poluautomatski ",4,"Crvena ",Beograd
+19774233,35800,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,Benzin,1469,150,"Automatski / poluautomatski ",4,"Siva ",Beograd
+17873431,35590,"Novo vozilo",Hyundai,Tucson,2022,1,Džip/SUV,Benzin,1598,181,"Automatski / poluautomatski ",4,"Crvena ",Jagodina
+17880327,35590,"Novo vozilo",Hyundai,Tucson,2022,2,Džip/SUV,Benzin,1598,179,"Automatski / poluautomatski ",4,"Smeđa ",Jagodina
+19558552,35590,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Benzin,1598,179,"Automatski / poluautomatski ",4,"Siva ",Niš
+17317719,35200,"Novo vozilo",Škoda,Superb,2022,2,Hečbek,Dizel,1968,200,"Automatski / poluautomatski ",4,"Crna ",Šabac
+19926640,35160,"Novo vozilo",Volkswagen,T-Roc,2022,1,Džip/SUV,Benzin,1498,150,"Automatski / poluautomatski ",4,"Siva ",Kragujevac
+19707992,35090,"Novo vozilo",Honda,HR-V,2022,0,Džip/SUV,"Hibridni pogon",1498,131,"Automatski / poluautomatski ",4,"Siva ",Niš
+19959138,34999,"Polovno vozilo",Škoda,Superb,2022,3800,Limuzina,Dizel,1998,150,"Automatski / poluautomatski ",4,"Crna ",Vladimirovac
+19664287,34940,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Bordo ",Kragujevac
+20067712,34900,"Polovno vozilo",Škoda,Superb,2021,12000,Limuzina,Dizel,1968,200,"Automatski / poluautomatski ",4,"Zelena ",Resnik
+17698186,34890,"Novo vozilo",Renault,Koleos,2022,5,Džip/SUV,Benzin,1332,160,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19688931,34650,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,"Hibridni pogon",1469,150,"Automatski / poluautomatski ",4,"Crvena ",Kragujevac
+20058104,34625,"Novo vozilo",Seat,Ateca,2022,0,Džip/SUV,Benzin,1498,150,"Automatski / poluautomatski ",4,"Crna ",Beograd
+17757124,34519,"Novo vozilo",Kia,pro_cee`d,2021,0,Karavan,Benzin,1591,204,"Automatski / poluautomatski ",4,"Crna ","Novi Sad"
+19769392,34499,"Polovno vozilo","Mercedes Benz","B 180",2021,20000,Hečbek,Benzin,1332,136,"Automatski / poluautomatski ",4,"Bela ","Novi Beograd"
+19758408,34290,"Novo vozilo",Ford,Kuga,2022,0,Džip/SUV,Benzin,1496,150,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+20000434,34147,"Novo vozilo",Volkswagen,Tiguan,2022,1,Džip/SUV,Benzin,1498,150,"Automatski / poluautomatski ",4,"Tirkiz ",Niš
+14663310,34040,"Novo vozilo",Renault,Koleos,2022,5,Džip/SUV,Benzin,1332,160,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19307376,34040,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Crna ","Novi Sad"
+19663028,33999,"Polovno vozilo","Mercedes Benz","A 180",2022,20000,Hečbek,Benzin,1332,136,"Automatski / poluautomatski ",4,"Braon ","Novi Beograd"
+17051951,33990,"Novo vozilo",Ford,Kuga,2022,0,Džip/SUV,Benzin,1498,150,"Manuelni 6 brzina ",4,"Teget ","Novi Sad"
+18928350,33990,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1898,163,"Manuelni 6 brzina ",4,"Narandžasta ","Novi Sad"
+19752937,33990,"Polovno vozilo",Ford,Kuga,2022,5,Džip/SUV,Benzin,1499,150,"Manuelni 6 brzina ",4,"Crna ",Kragujevac
+19757875,33990,"Novo vozilo",Ford,Kuga,2022,0,Džip/SUV,Benzin,1496,150,"Manuelni 6 brzina ",4,"Siva ",Beograd
+19895657,33990,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1898,163,"Manuelni 6 brzina ",4,"Siva ","Bačka Topola"
+20000733,33990,"Novo vozilo",Ford,Kuga,2022,0,Džip/SUV,Benzin,1499,150,"Manuelni 6 brzina ",4,"Plava ",Niš
+20001315,33990,"Novo vozilo",Ford,Kuga,2022,1,Džip/SUV,Benzin,1499,150,"Manuelni 6 brzina ",4,"Crna ",Šabac
+19891408,33690,"Novo vozilo",Peugeot,3008,2022,0,Džip/SUV,Benzin,1199,131,"Manuelni 6 brzina ",4,"Plava ",Zrenjanin
+19307310,33640,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Bordo ","Novi Sad"
+18620376,33190,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,"Hibridni pogon",1469,150,"Automatski / poluautomatski ",4,"Bela ",Beograd
+17467538,33100,"Novo vozilo",Toyota,C-HR,2022,2,Džip/SUV,"Hibridni pogon",1798,122,"Automatski / poluautomatski ",4,"Siva ","Novi Sad"
+18729633,32760,"Novo vozilo",Renault,Megane,2022,5,Hečbek,Benzin,1332,160,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19433787,32650,"Novo vozilo",Nissan,Qashqai,2022,1,Džip/SUV,"Hibridni pogon",1332,158,"Automatski / poluautomatski ",4,"Siva ","Novi Beograd"
+19584587,32640,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Siva ",Kragujevac
+18367306,32540,"Novo vozilo",Renault,Megane,2022,5,Hečbek,Benzin,1332,140,"Automatski / poluautomatski ",4,"Narandžasta ",Beograd
+19307801,32540,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Siva ","Novi Sad"
+18066897,32500,"Novo vozilo",Isuzu,D-Max,2021,0,Pickup,Dizel,1889,163,"Automatski / poluautomatski ",4,"Siva ","Bačka Topola"
+18076795,32500,"Novo vozilo",Isuzu,D-Max,2022,2,Pickup,Dizel,1898,163,"Automatski / poluautomatski ",4,"Srebrna ","Novi Sad"
+20058302,32500,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1898,163,"Automatski / poluautomatski ",4,"Crvena ","Bačka Topola"
+10854695,32320,"Novo vozilo",Renault,Megane,2022,8,Hečbek,Benzin,1332,140,"Automatski / poluautomatski ",4,"Bela ",Veternik
+19653620,32290,"Novo vozilo",Hyundai,Tucson,2022,5,Džip/SUV,Benzin,1598,179,"Automatski / poluautomatski ",4,"Bela ",Kraljevo
+18792741,32159,"Novo vozilo",Kia,pro_cee`d,2021,1,Karavan,Benzin,1482,160,"Automatski / poluautomatski ",4,"Bela ","Novi Sad"
+19308359,32040,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Crvena ","Novi Sad"
+18057629,31990,"Novo vozilo",Audi,A4,2022,0,Limuzina,Benzin,1984,150,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19829112,31990,"Polovno vozilo",Seat,Leon,2021,5000,Hečbek,Dizel,1968,150,"Automatski / poluautomatski ",4,"Crvena ",Beograd
+20036154,31700,"Polovno vozilo",Škoda,Kodiaq,2022,8,Džip/SUV,Benzin,1498,150,"Manuelni 6 brzina ",4,"Crna ",Beograd
+18124674,31590,"Novo vozilo",Hyundai,Tucson,2022,1,Džip/SUV,Benzin,1598,179,"Automatski / poluautomatski ",4,"Kameleon ",Jagodina
+19804406,31490,"Polovno vozilo",Audi,A3,2021,12990,Hečbek,Benzin,1498,150,"Manuelni 6 brzina ",4,"Plava ",Beograd
+20065963,31490,"Polovno vozilo","Mercedes Benz","B 180",2021,20529,"Monovolumen (MiniVan)",Benzin,1332,136,"Automatski / poluautomatski ",4,"Crna ","Novi Beograd"
+19994768,31090,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Crvena ",Beograd
+18141177,30990,"Novo vozilo",Isuzu,D-Max,2022,2,Pickup,Dizel,1898,163,"Manuelni 6 brzina ",4,"Narandžasta ","Novi Sad"
+20005222,30990,"Polovno vozilo",BMW,118,2021,36100,Hečbek,Benzin,1499,136,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19330472,30490,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,"Hibridni pogon",1468,150,"Automatski / poluautomatski ",4,"Crvena ","Novi Sad"
+19399825,30490,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,"Hibridni pogon",1469,150,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19722448,30390,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Siva ",Niš
+19901900,30270,"Novo vozilo",Renault,Megane,2022,5,Džip/SUV,Benzin,1332,140,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19683082,30070,"Novo vozilo",Mazda,CX-30,2022,5,Džip/SUV,Benzin,1998,150,"Manuelni 6 brzina ",4,"Crvena ","Novi Sad"
+20046630,30000,"Polovno vozilo",Hyundai,Tucson,2021,18000,Džip/SUV,Benzin,1600,179,"Automatski / poluautomatski ",4,"Bela ",Voždovac
+19834331,29999,"Polovno vozilo",Škoda,Octavia,2021,4300,Hečbek,Dizel,1968,150,"Automatski / poluautomatski ",4,"Bela ",Šabac
+18055679,29990,"Novo vozilo",Audi,A4,2022,0,Limuzina,Benzin,1984,150,"Manuelni 6 brzina ",4,"Crna ",Beograd
+19878823,29990,"Novo vozilo",Subaru,XV,2022,0,Džip/SUV,Benzin,1600,114,"Automatski / poluautomatski ",4,"Siva ","Novi Sad"
+19923739,29990,"Polovno vozilo",Peugeot,3008,2021,9576,Džip/SUV,Benzin,1199,131,"Automatski / poluautomatski ",4,"Siva ","Novi Sad"
+20062831,29990,"Polovno vozilo","Mercedes Benz","A 180",2021,22613,Hečbek,Benzin,1332,136,"Manuelni 6 brzina ",4,"Crna ","Novi Beograd"
+19399438,29970,"Polovno vozilo",Renault,Megane,2022,5,Džip/SUV,Benzin,1332,140,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19622728,29900,"Novo vozilo",Nissan,Qashqai,2021,1,Džip/SUV,Benzin,1332,158,"Manuelni 6 brzina ",4,"Crvena ","Novi Beograd"
+19707645,29900,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Bela ","Novi Sad"
+19707549,29690,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Crna ","Novi Sad"
+19901042,29600,"Novo vozilo",Nissan,Qashqai,2022,3,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Bordo ","Novi Beograd"
+18803249,29539,"Novo vozilo",Kia,pro_cee`d,2021,3,Karavan,Benzin,1482,160,"Manuelni 6 brzina ",4,"Crvena ",Niš
+17532501,29500,"Novo vozilo",Isuzu,D-Max,2022,2,Pickup,Dizel,1898,163,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+18005244,29500,"Novo vozilo",Isuzu,D-Max,2022,2,Pickup,Dizel,1898,163,"Automatski / poluautomatski ",4,"Bela ","Novi Sad"
+19823014,29500,"Polovno vozilo",Nissan,Qashqai,2021,4000,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Plava ",Beograd
+20001113,29456,"Novo vozilo",Volkswagen,T-Roc,2022,1,Džip/SUV,Benzin,999,110,"Manuelni 6 brzina ",4,"Crna ",Niš
+19255079,29280,"Novo vozilo",Honda,Jazz,2021,0,Hečbek,Benzin,1498,98,"Automatski / poluautomatski ",4,"Bela ","Novi Beograd"
+20034047,29250,"Polovno vozilo",Volkswagen,"Golf 8",2021,45160,Hečbek,"Benzin + Metan (CNG)",1498,131,"Automatski / poluautomatski ",4,"Siva ",Niš
+18840691,29190,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,Dizel,1598,131,"Manuelni 6 brzina ",4,"Plava ",Kragujevac
+19781607,29090,"Novo vozilo",Hyundai,Tucson,2022,1,Džip/SUV,Dizel,1598,114,"Manuelni 6 brzina ",4,"Siva ",Jagodina
+20067566,29000,"Polovno vozilo",Seat,Ateca,2021,16000,Džip/SUV,Benzin,1498,150,"Automatski / poluautomatski ",4,"Plava ",Sombor
+19579387,28999,"Polovno vozilo",Suzuki,Jimny,2022,3,Džip/SUV,Benzin,1462,102,"Automatski / poluautomatski ",2,"Siva ",Beograd
+18639054,28990,"Polovno vozilo",Nissan,Qashqai,2021,30,Džip/SUV,Benzin,1332,158,"Manuelni 6 brzina ",4,"Bordo ",Kragujevac
+19613924,28900,"Polovno vozilo",Hyundai,Tucson,2021,12600,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bordo ",Beograd
+19729956,28900,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,158,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19873628,28590,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bela ",Niš
+20021797,28500,"Novo vozilo",Nissan,Qashqai,2022,0,Džip/SUV,Benzin,1332,140,"Manuelni 6 brzina ",4,"Siva ","Novi Sad"
+17832150,28390,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Srebrna ",Beograd
+17832274,28390,"Novo vozilo",Hyundai,Tucson,2022,5,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bordo ",Zrenjanin
+19697735,28200,"Novo vozilo",Suzuki,Vitara,2022,0,Džip/SUV,Benzin,1398,140,"Automatski / poluautomatski ",4,"Zlatna ",Niš
+19774481,28190,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,Dizel,1598,131,"Manuelni 6 brzina ",4,"Bela ",Beograd
+17832064,28090,"Novo vozilo",Hyundai,Tucson,2022,5,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crna ",Kraljevo
+17842219,28090,"Polovno vozilo",Hyundai,Tucson,2022,1,Džip/SUV,Benzin,1600,150,"Manuelni 6 brzina ",4,"Bež ",Jagodina
+17846690,28090,"Novo vozilo",Hyundai,Tucson,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Kameleon ",Jagodina
+17869779,28090,"Novo vozilo",Hyundai,Tucson,2022,2,Džip/SUV,Benzin,1589,150,"Manuelni 6 brzina ",4,"Zelena ",Jagodina
+19260176,28090,"Novo vozilo",Hyundai,Tucson,2021,10,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crna ",Sombor
+19637304,28090,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crna ",Niš
+19799468,28090,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Dizel,1598,116,"Manuelni 6 brzina ",4,"Teget ",Niš
+19507524,27990,"Polovno vozilo",Renault,Megane,2021,14250,Hečbek,Benzin,1332,140,"Automatski / poluautomatski ",4,"Narandžasta ",Užice
+19639046,27939,"Novo vozilo",Kia,Sportage,2022,5,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Plava ","Novi Sad"
+19723944,27939,"Novo vozilo",Kia,Sportage,2022,4,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crvena ",Subotica
+19729037,27939,"Novo vozilo",Kia,Sportage,2022,2,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crvena ","Novi Sad"
+19729446,27939,"Novo vozilo",Kia,Sportage,2022,5,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crna ","Novi Sad"
+19795029,27939,"Polovno vozilo",Kia,Sportage,2022,5,Džip/SUV,Benzin,1589,150,"Manuelni 6 brzina ",4,"Zelena ",Veternik
+19837976,27939,"Novo vozilo",Kia,Sportage,2022,5,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Žuta ","Novi Sad"
+19935730,27939,"Novo vozilo",Kia,Sportage,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Siva ","Novi Sad"
+19935788,27939,"Novo vozilo",Kia,Sportage,2022,2,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Siva ","Novi Sad"
+18180399,27920,"Novo vozilo",Renault,Kadjar,2022,5,Džip/SUV,Benzin,1332,159,"Automatski / poluautomatski ",4,"Crna ",Beograd
+18913049,27920,"Novo vozilo",Renault,Kadjar,2022,5,Džip/SUV,Benzin,1332,160,"Automatski / poluautomatski ",4,"Siva ",Beograd
+14775003,27906,"Novo vozilo",Škoda,Kodiaq,2022,0,Džip/SUV,Benzin,1498,150,"Manuelni 6 brzina ",4,"Siva ",Veternik
+19654889,27819,"Novo vozilo",Kia,Sportage,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crvena ",Čačak
+19660637,27819,"Polovno vozilo",Kia,Sportage,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Siva ",Veternik
+19702674,27819,"Novo vozilo",Kia,Sportage,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crna ",Čačak
+19723883,27819,"Novo vozilo",Kia,Sportage,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bela ",Čačak
+19901041,27819,"Novo vozilo",Kia,Sportage,2022,5,Džip/SUV,Benzin,1589,150,"Manuelni 6 brzina ",4,"Crna ",Veternik
+20031344,27819,"Novo vozilo",Kia,Sportage,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Plava ",Čačak
+20054581,27819,"Novo vozilo",Kia,Sportage,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Siva ",Čačak
+19945772,27539,"Novo vozilo",Kia,Sportage,2022,5,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+19377978,27490,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,Dizel,1598,131,"Manuelni 6 brzina ",4,"Plava ","Novi Sad"
+19905145,27490,"Polovno vozilo",Volkswagen,T-Roc,2021,22300,Džip/SUV,Dizel,1968,150,"Manuelni 6 brzina ",4,"Crvena ",Jagodina
+19415008,27320,"Novo vozilo",Renault,Kadjar,2022,5,Džip/SUV,Benzin,1332,160,"Automatski / poluautomatski ",4,"Crvena ",Beograd
+19986660,27290,"Novo vozilo",Hyundai,Tucson,2022,3,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bela ",Beograd
+15712902,27159,"Novo vozilo",Kia,XCeed,2021,6,Džip/SUV,Benzin,1482,160,"Manuelni 6 brzina ",4,"Žuta ","Novi Sad"
+19775827,27139,"Novo vozilo",Kia,XCeed,2022,3,Hečbek,Benzin,1482,160,"Manuelni 6 brzina ",4,"Žuta ",Niš
+19923172,27139,"Novo vozilo",Kia,XCeed,2022,1,Džip/SUV,Benzin,1482,160,"Manuelni 6 brzina ",4,"Žuta ",Čačak
+19414904,27120,"Novo vozilo",Renault,Kadjar,2022,5,Džip/SUV,Benzin,1332,160,"Automatski / poluautomatski ",4,"Siva ",Beograd
+18760542,27100,"Novo vozilo",Suzuki,Jimny,2022,0,Džip/SUV,Benzin,1462,102,"Automatski / poluautomatski ",2,"Siva ","Novi Sad"
+17919046,27090,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bordo ",Kraljevo
+19655937,27090,"Novo vozilo",Hyundai,Tucson,2022,0,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bordo ",Majur
+19633357,27039,"Novo vozilo",Kia,XCeed,2022,1,Džip/SUV,Benzin,1482,160,"Manuelni 6 brzina ",4,"Crvena ",Čačak
+18831175,26999,"Polovno vozilo",Kia,Sportage,2021,10870,Džip/SUV,Dizel,1598,116,"Manuelni 6 brzina ",4,"Bela ",Zemun
+17951277,26990,"Novo vozilo",Isuzu,D-Max,2022,0,Pickup,Dizel,1898,163,"Manuelni 6 brzina ",2,"Bela ","Novi Sad"
+19793755,26990,"Polovno vozilo",Jeep,Renegade,2021,485,Džip/SUV,Dizel,1598,131,"Manuelni 6 brzina ",4,"Crna ",Beograd
+19902793,26990,"Polovno vozilo",Fiat,500,2021,12000,Hečbek,Benzin,1400,170,"Automatski / poluautomatski ",2,"Siva ","Novi Beograd"
+20017864,26850,"Novo vozilo",Opel,"Grandland X",2022,0,Džip/SUV,Benzin,1199,131,"Manuelni 6 brzina ",4,"Crna ",Beograd
+19968130,26700,"Novo vozilo",Renault,Kadjar,2022,3,Džip/SUV,Dizel,1461,116,"Automatski / poluautomatski ",4,"Bela ",Pančevo
+19763524,26690,"Novo vozilo",Jeep,Compass,2022,1,Džip/SUV,Benzin,1332,131,"Manuelni 6 brzina ",4,"Plava ",Čačak
+19768626,26539,"Novo vozilo",Kia,Sportage,2022,2,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Crvena ","Novi Sad"
+20021993,26539,"Novo vozilo",Kia,Sportage,2022,5,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Zelena ","Novi Sad"
+19763613,26510,"Novo vozilo",Opel,Mokka,2022,5,Džip/SUV,Dizel,1499,110,"Manuelni 6 brzina ",4,"Crna ",Beograd
+19744446,26419,"Novo vozilo",Kia,Sportage,2022,3,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Plava ",Niš
+19874035,26419,"Novo vozilo",Kia,Sportage,2022,1,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Siva ",Čačak
+19460148,26300,"Polovno vozilo",Kia,Sportage,2021,135,Džip/SUV,Benzin,1600,132,"Manuelni 6 brzina ",4,"Siva ",Beograd
+19504781,26299,"Polovno vozilo",Kia,Sportage,2021,4411,Džip/SUV,Dizel,1598,136,"Manuelni 6 brzina ",4,"Plava ",Zemun
+20062960,26290,"Novo vozilo",Kia,Sportage,2022,2000,Džip/SUV,Benzin,1591,150,"Manuelni 6 brzina ",4,"Plava ","Novi Sad"
+20002536,26200,"Polovno vozilo",Kia,Sportage,2021,7300,Džip/SUV,Dizel,1600,136,"Manuelni 6 brzina ",4,"Crvena ",Smederevo
+18528150,25990,"Novo vozilo",Hyundai,Tucson,2021,12800,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Kameleon ",Jagodina
+20057760,25900,"Novo vozilo","Mercedes Benz",Citan,2021,1,"Monovolumen (MiniVan)",Dizel,1461,95,"Manuelni 6 brzina ",4,"Siva ","Novi Pazar"
+19808849,25790,"Polovno vozilo",Hyundai,Kona,2021,10,Džip/SUV,Dizel,1598,136,"Automatski / poluautomatski ",4,"Plava ",Beograd
+18774322,25699,"Polovno vozilo",Kia,Sportage,2021,15190,Džip/SUV,Dizel,1598,116,"Manuelni 6 brzina ",4,"Bela ",Zemun
+18619863,25690,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,Benzin,1332,131,"Manuelni 6 brzina ",4,"Crna ",Beograd
+19900044,25660,"Novo vozilo",Fiat,500X,2022,1,Hečbek,Benzin,1332,150,"Automatski / poluautomatski ",4,"Siva ",Beograd
+18234133,25590,"Novo vozilo",Hyundai,Tucson,2022,5,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Srebrna ",Kraljevo
+19352773,25450,"Novo vozilo",Suzuki,"SX4 S-Cross",2022,0,Džip/SUV,Benzin,1373,129,"Manuelni 6 brzina ",4,"Siva ","Novi Sad"
+16427935,25420,"Novo vozilo",Renault,Kadjar,2022,8,Džip/SUV,Benzin,1333,140,"Manuelni 6 brzina ",4,"Crvena ",Veternik
+19940774,25320,"Novo vozilo",Renault,Kadjar,2022,0,Džip/SUV,Benzin,1332,141,"Manuelni 6 brzina ",4,"Bela ",Niš
+20047589,25319,"Novo vozilo",Kia,Sportage,2022,0,Džip/SUV,Benzin,1598,150,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+18167597,25190,"Novo vozilo",Hyundai,Kona,2021,0,Džip/SUV,Benzin,1598,199,"Automatski / poluautomatski ",4,"Plava ","Novi Sad"
+19599623,25090,"Polovno vozilo",Kia,XCeed,2021,3870,Džip/SUV,Benzin,1482,159,"Manuelni 6 brzina ",4,"Plava ",Zemun
+15718038,25070,"Novo vozilo",Mazda,CX-30,2022,0,Džip/SUV,Benzin,1998,122,"Manuelni 6 brzina ",4,"Crvena ",Niš
+19414626,25020,"Novo vozilo",Renault,Kadjar,2022,5,Džip/SUV,Benzin,1332,160,"Manuelni 6 brzina ",4,"Crna ",Beograd
+18776261,25000,"Polovno vozilo",Fiat,500,2021,3000,Kupe,Benzin,1400,165,"Automatski / poluautomatski ",2,"Teget ",Beograd
+17501196,24990,"Novo vozilo",Nissan,Juke,2022,0,Džip/SUV,Benzin,999,114,"Automatski / poluautomatski ",4,"Crvena ",Beograd
+19022466,24990,"Polovno vozilo",MINI,Cooper,2021,10000,Limuzina,Benzin,1499,136,"Manuelni 6 brzina ",4,"Siva ",Beograd
+19377942,24990,"Novo vozilo",Jeep,Compass,2022,0,Džip/SUV,Benzin,1332,131,"Manuelni 6 brzina ",4,"Crvena ","Novi Sad"
+20060214,24990,"Polovno vozilo",Volkswagen,"Golf 8",2021,23000,Hečbek,Dizel,1968,116,"Manuelni 6 brzina ",4,"Crna ",Beograd
+16080042,24720,"Novo vozilo",Renault,Kadjar,2022,5,Džip/SUV,Benzin,1332,140,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+19414711,24720,"Novo vozilo",Renault,Kadjar,2022,5,Džip/SUV,Benzin,1332,140,"Manuelni 6 brzina ",4,"Siva ",Beograd
+20066018,24580,"Novo vozilo",Opel,Mokka,2022,5,Džip/SUV,Benzin,1199,101,"Manuelni 6 brzina ",4,"Bordo ",Beograd
+19972918,24500,"Polovno vozilo",Kia,Sportage,2021,6900,Džip/SUV,Dizel,1598,136,"Manuelni 6 brzina ",4,"Srebrna ",Niš
+19414785,24420,"Novo vozilo",Renault,Kadjar,2022,5,Džip/SUV,Benzin,1332,140,"Manuelni 6 brzina ",4,"Bela ",Beograd
+18964046,24338,"Novo vozilo",Volkswagen,"Golf 8",2022,0,Hečbek,Benzin,999,110,"Manuelni 6 brzina ",4,"Crvena ",Požarevac
+19478522,24300,"Novo vozilo",Opel,Mokka,2022,2,Džip/SUV,Benzin,1199,101,"Manuelni 6 brzina ",4,"Bela ",Beograd
+11576007,24220,"Novo vozilo",Renault,Kadjar,2022,8,Džip/SUV,Benzin,1333,140,"Manuelni 6 brzina ",4,"Crna ","Novi Sad"
+19987549,24000,"Polovno vozilo",Dacia,Duster,2022,500,Džip/SUV,Dizel,1500,116,"Manuelni 6 brzina ",4,"Siva ",Obrenovac
+20012664,24000,"Polovno vozilo",Citroen,C-Aircross,2022,2125,Džip/SUV,Dizel,1499,120,"Manuelni 6 brzina ",4,"Zelena ","Novi Sad"
+20066977,23790,"Novo vozilo",Opel,"Crossland X ",2022,5,Džip/SUV,Dizel,1499,110,"Manuelni 6 brzina ",4,"Crna ",Beograd
+19553931,23700,"Novo vozilo",Jeep,Renegade,2022,0,Džip/SUV,Dizel,1598,131,"Manuelni 6 brzina ",4,"Siva ",Kragujevac
+20027790,23700,"Novo vozilo",Jeep,Renegade,2022,0,Džip/SUV,Dizel,1598,131,"Manuelni 6 brzina ",4,"Plava ",Kragujevac
+18377319,23690,"Novo vozilo",Hyundai,Kona,2022,6,Džip/SUV,Benzin,998,120,"Manuelni 6 brzina ",4,"Crvena ",Zrenjanin
+19308861,23690,"Novo vozilo",Toyota,Yaris,2022,2,Džip/SUV,Benzin,1490,125,"Manuelni 6 brzina ",4,"Zlatna ","Novi Sad"
+19809413,23690,"Novo vozilo",Hyundai,Kona,2022,2,Džip/SUV,Benzin,998,120,"Manuelni 6 brzina ",4,"Plava ",Beograd
+16727942,23550,"Novo vozilo",Škoda,Octavia,2022,2,Hečbek,Dizel,1968,116,"Manuelni 6 brzina ",4,"Siva ",Šabac
+19870103,23500,"Novo vozilo",Suzuki,Swift,2022,0,Hečbek,Benzin,1373,140,"Manuelni 6 brzina ",4,"Žuta ","Novi Sad"
+18458433,23490,"Novo vozilo",Hyundai,Kona,2022,0,Džip/SUV,Benzin,998,120,"Manuelni 6 brzina ",4,"Siva ",Majur
+20000968,23490,"Polovno vozilo",Ford,Focus,2022,1,Hečbek,Benzin,999,125,"Manuelni 6 brzina ",4,"Siva ",Šabac
+19891084,23020,"Novo vozilo",Peugeot,208,2022,0,Hečbek,Benzin,1199,101,"Manuelni 6 brzina ",4,"Plava ",Zrenjanin
+19623660,23000,"Novo vozilo",Jeep,Renegade,2022,0,Džip/SUV,Dizel,1598,131,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+19833738,22850,"Novo vozilo",Fiat,500X,2022,0,Hečbek,Benzin,999,120,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+17468687,22740,"Novo vozilo",Renault,Megane,2022,5,Hečbek,Benzin,1332,140,"Manuelni 6 brzina ",4,"Bela ",Beograd
+15579186,22730,"Novo vozilo",Ford,Puma,2022,0,Džip/SUV,Benzin,999,125,"Manuelni 6 brzina ",4,"Siva ",Niš
+16545024,22730,"Novo vozilo",Ford,Puma,2022,0,Džip/SUV,Benzin,998,125,"Manuelni 6 brzina ",4,"Siva ",Niš
+17138204,22730,"Novo vozilo",Ford,Puma,2022,0,Džip/SUV,Benzin,999,125,"Manuelni 6 brzina ",4,"Plava ",Niš
+19425940,22730,"Novo vozilo",Ford,Puma,2022,0,Hečbek,Benzin,998,125,"Automatski / poluautomatski ",4,"Bež ",Šabac
+19428225,22730,"Novo vozilo",Ford,Puma,2022,0,Hečbek,Benzin,998,125,"Automatski / poluautomatski ",4,"Crna ",Šabac
+19598301,22730,"Novo vozilo",Ford,Puma,2022,0,Hečbek,Benzin,999,125,"Automatski / poluautomatski ",4,"Plava ",Šabac
+19729358,22520,"Novo vozilo",Renault,Megane,2022,0,Limuzina,Dizel,1461,116,"Manuelni 6 brzina ",4,"Siva ",Šabac
+16632068,22490,"Novo vozilo",Ford,Puma,2022,0,Džip/SUV,Benzin,999,125,"Manuelni 6 brzina ",4,"Crna ",Kragujevac
+16789796,22490,"Novo vozilo",Ford,Puma,2022,0,Džip/SUV,Benzin,999,125,"Automatski / poluautomatski ",4,"Plava ","Novi Sad"
+19520577,22490,"Novo vozilo",Ford,Puma,2022,0,Džip/SUV,Benzin,999,125,"Automatski / poluautomatski ",4,"Plava ",Subotica
+19794778,22390,"Polovno vozilo",Hyundai,Venue,2022,2,Hečbek,Benzin,1600,122,"Manuelni 6 brzina ",4,"Plava ",Jagodina
+19809212,22390,"Novo vozilo",Hyundai,Venue,2022,0,Džip/SUV,Benzin,1591,124,"Manuelni 6 brzina ",4,"Crvena ",Niš
+14664241,22170,"Novo vozilo",Renault,Megane,2022,5,Hečbek,Benzin,1332,140,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+19689414,22090,"Novo vozilo",Jeep,Renegade,2022,0,Džip/SUV,Benzin,999,120,"Manuelni 6 brzina ",4,"Bela ",Kragujevac
+19627636,22080,"Novo vozilo",Renault,Captur,2022,5,Džip/SUV,Benzin,1333,140,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+17828113,22000,"Novo vozilo",Suzuki,Vitara,2022,0,Džip/SUV,Benzin,1373,129,"Manuelni 6 brzina ",4,"Siva ","Novi Sad"
+17469971,21990,"Novo vozilo",Nissan,Juke,2022,0,Džip/SUV,Benzin,999,114,"Manuelni 6 brzina ",4,"Bela ",Beograd
+19444787,21990,"Novo vozilo",Hyundai,i30,2021,0,Hečbek,Benzin,1498,110,"Manuelni 6 brzina ",4,"Bež ",Niš
+19827981,21990,"Novo vozilo",Opel,"Crossland X ",2022,2,Džip/SUV,Benzin,1198,110,"Manuelni 6 brzina ",4,"Bordo ",Beograd
+19829498,21990,"Novo vozilo",Opel,Mokka,2022,2,Džip/SUV,Benzin,1199,101,"Manuelni 6 brzina ",4,"Bela ",Beograd
+19441564,21970,"Novo vozilo",Renault,Megane,2022,5,Hečbek,Benzin,1332,140,"Manuelni 6 brzina ",4,"Siva ",Beograd
+13417456,21790,"Novo vozilo",Ford,Focus,2022,0,Hečbek,Benzin,999,125,"Manuelni 6 brzina ",4,"Crna ",Niš
+14717395,21790,"Novo vozilo",Ford,Focus,2022,0,Hečbek,Benzin,999,125,"Manuelni 6 brzina ",4,"Zlatna ","Novi Sad"
+20000570,21790,"Novo vozilo",Ford,Focus,2022,0,Hečbek,Benzin,999,125,"Manuelni 6 brzina ",4,"Srebrna ",Beograd
+18101774,21770,"Novo vozilo",Renault,Megane,2022,5,Hečbek,Benzin,1332,140,"Manuelni 6 brzina ",4,"Crna ",Beograd
+16951916,21590,"Novo vozilo",Ford,Puma,2022,0,Džip/SUV,Benzin,998,125,"Manuelni 6 brzina ",4,"Crna ",Šabac
+19002460,21490,"Novo vozilo",Ford,Ostalo,2022,1,Pickup,Dizel,1498,99,"Manuelni 6 brzina ",4,"Bela ",Niš
+19829164,21490,"Polovno vozilo",Seat,Arona,2021,5000,Džip/SUV,Benzin,999,110,"Manuelni 6 brzina ",4,"Plava ",Beograd
+19922274,21490,"Polovno vozilo",Seat,Arona,2021,5000,Džip/SUV,Benzin,999,110,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+19954968,21490,"Novo vozilo",Ford,Focus,2022,5,Hečbek,Benzin,998,125,"Manuelni 6 brzina ",4,"Bela ",Kragujevac
+20052900,21490,"Novo vozilo",Ford,Focus,2022,0,Hečbek,Benzin,999,125,"Manuelni 6 brzina ",4,"Bela ",Beograd
+20022623,21450,"Polovno vozilo",Renault,Kadjar,2021,23953,Džip/SUV,Dizel,1461,116,"Manuelni 6 brzina ",4,"Plava ",Šabac
+19413873,21420,"Novo vozilo",Renault,Megane,2022,5,Limuzina,Benzin,1332,140,"Manuelni 6 brzina ",4,"Bela ",Beograd
+19489745,21290,"Novo vozilo",Hyundai,i30,2022,1,Karavan,Benzin,1498,109,"Manuelni 6 brzina ",4,"Bež ",Kraljevo
+20001198,21240,"Polovno vozilo",Ford,Focus,2022,1,Hečbek,Benzin,999,125,"Manuelni 6 brzina ",4,"Bela ",Šabac
+20001282,21240,"Novo vozilo",Ford,Focus,2022,1,Hečbek,Benzin,999,125,"Manuelni 6 brzina ",4,"Siva ",Šabac
+17243457,21180,"Novo vozilo",Renault,Captur,2022,0,Džip/SUV,Benzin,1000,91,"Manuelni 6 brzina ",4,"Narandžasta ",Šabac
+19915863,21000,"Polovno vozilo",Opel,Combo,2021,63000,"Monovolumen (MiniVan)",Dizel,1499,75,"Manuelni 5 brzina ",4,"Siva ","Novi Sad"
+18198363,20990,"Novo vozilo",Toyota,Corolla,2022,2,Limuzina,Benzin,1490,125,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+18528762,20990,"Novo vozilo",Volkswagen,T-Cross,2021,7000,Džip/SUV,Benzin,999,95,"Manuelni 5 brzina ",4,"Narandžasta ",Subotica
+19492267,20990,"Novo vozilo",Hyundai,Bayon,2022,1,Džip/SUV,Benzin,1197,84,"Manuelni 5 brzina ",4,"Bež ",Kraljevo
+19829119,20990,"Novo vozilo",Hyundai,Venue,2022,12,Džip/SUV,Benzin,1591,122,"Manuelni 6 brzina ",4,"Plava ",Beograd
+19828225,20880,"Novo vozilo",Fiat,500C,2022,0,Kabriolet/Roadster,Benzin,999,70,"Manuelni 6 brzina ",2,"Crvena ",Beograd
+18233503,20690,"Polovno vozilo",Hyundai,i30,2021,1,Hečbek,Benzin,1482,110,"Manuelni 6 brzina ",4,"Siva ",Beograd
+18264290,20690,"Novo vozilo",Hyundai,i30,2021,0,Hečbek,Benzin,1498,110,"Manuelni 6 brzina ",4,"Siva ",Šabac
+19413578,20690,"Novo vozilo",Renault,Megane,2022,5,Limuzina,Dizel,1461,116,"Manuelni 6 brzina ",4,"Siva ",Beograd
+19734753,20690,"Novo vozilo",Hyundai,i30,2022,0,Hečbek,Benzin,1498,110,"Manuelni 6 brzina ",4,"Zelena ",Niš
+19906252,20590,"Novo vozilo",Hyundai,Venue,2022,5,Hečbek,Benzin,1591,122,"Manuelni 6 brzina ",4,"Zelena ",Zrenjanin
+19627524,20480,"Novo vozilo",Renault,Captur,2022,5,Džip/SUV,Benzin,999,91,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+15435990,20320,"Novo vozilo",Renault,Captur,2022,8,Džip/SUV,Benzin,898,101,"Manuelni 5 brzina ",4,"Bela ","Novi Sad"
+16682680,20030,"Novo vozilo",Renault,Captur,2022,5,Džip/SUV,Benzin,999,90,"Manuelni 6 brzina ",4,"Plava ",Beograd
+17542889,20030,"Novo vozilo",Renault,Captur,2022,5,Džip/SUV,Benzin,999,90,"Manuelni 6 brzina ",4,"Siva ",Beograd
+19399177,20030,"Novo vozilo",Renault,Captur,2022,5,Hečbek,Benzin,999,90,"Manuelni 6 brzina ",4,"Plava ",Beograd
+19399201,20030,"Novo vozilo",Renault,Captur,2022,5,Hečbek,Benzin,999,90,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+19399385,20030,"Novo vozilo",Renault,Captur,2022,5,Hečbek,Benzin,999,90,"Manuelni 6 brzina ",4,"Siva ",Beograd
+18556189,19990,"Novo vozilo",Toyota,Corolla,2022,2,Hečbek,Benzin,1197,116,"Manuelni 6 brzina ",4,"Crna ","Novi Sad"
+19655574,19890,"Novo vozilo",Hyundai,Venue,2022,0,Džip/SUV,Benzin,1591,122,"Manuelni 6 brzina ",4,"Narandžasta ","Novi Sad"
+19824665,19890,"Novo vozilo",Hyundai,Venue,2022,0,Džip/SUV,Benzin,1591,122,"Manuelni 6 brzina ",4,"Plava ",Majur
+20032126,19890,"Polovno vozilo",Dacia,Duster,2022,20,Džip/SUV,Dizel,1490,116,"Manuelni 6 brzina ",4,"Bela ",Valjevo
+15613163,19720,"Novo vozilo",Renault,Megane,2022,8,Hečbek,Benzin,1332,140,"Manuelni 6 brzina ",4,"Bela ","Novi Sad"
+19846891,19700,"Polovno vozilo",Renault,Clio,2021,5340,Hečbek,"Hibridni pogon",1598,140,"Automatski / poluautomatski ",4,"Siva ",Jagodina
+20028204,19630,"Novo vozilo",Peugeot,208,2022,1,Hečbek,Benzin,1199,75,"Manuelni 5 brzina ",2,"Crvena ",Zrenjanin
+18208814,19590,"Novo vozilo",Hyundai,i30,2022,1,Hečbek,Benzin,1498,110,"Manuelni 6 brzina ",4,"Siva ",Jagodina
+18234390,19590,"Novo vozilo",Hyundai,i30,2022,5,Hečbek,Benzin,1498,109,"Manuelni 6 brzina ",4,"Siva ",Kraljevo
+18725881,19590,"Novo vozilo",Hyundai,i30,2022,4,Hečbek,Benzin,1498,110,"Manuelni 6 brzina ",4,"Bež ",Zrenjanin
+19617956,19589,"Novo vozilo",Kia,Stonic,2022,1,Džip/SUV,Benzin,1368,101,"Automatski / poluautomatski ",4,"Crvena ",Čačak
+20017570,19550,"Novo vozilo",Opel,"Corsa F",2022,0,Hečbek,Benzin,1199,101,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+11576216,19520,"Novo vozilo",Renault,Megane,2022,8,Limuzina,Benzin,1332,140,"Manuelni 6 brzina ",4,"Crna ","Novi Sad"
+19554055,19490,"Novo vozilo",Hyundai,Bayon,2021,0,Džip/SUV,Benzin,1197,84,"Manuelni 5 brzina ",4,"Bež ","Novi Sad"
+19779638,19439,"Novo vozilo",Kia,Rio,2022,1,Hečbek,Benzin,1368,101,"Automatski / poluautomatski ",4,"Crvena ",Čačak
+19963952,19390,"Novo vozilo",Toyota,Aygo,2022,5,Hečbek,Benzin,998,72,"Manuelni 5 brzina ",4,"Zelena ","Novi Sad"
+12749837,19290,"Novo vozilo",Renault,Megane,2022,8,Hečbek,Benzin,1332,140,"Manuelni 6 brzina ",4,"Bež ","Novi Sad"
+19838056,19240,"Novo vozilo",Opel,"Crossland X ",2022,0,Džip/SUV,Benzin,1199,82,"Manuelni 5 brzina ",4,"Bela ",Beograd
+19067614,19190,"Novo vozilo",Hyundai,Bayon,2022,5,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Siva ",Zrenjanin
+19991243,19190,"Novo vozilo",Hyundai,Bayon,2022,3,"Monovolumen (MiniVan)",Benzin,1197,84,"Manuelni 5 brzina ",4,"Plava ",Beograd
+19503952,18950,"Polovno vozilo",Kia,Stonic,2021,4818,Džip/SUV,Benzin,998,99,"Manuelni 6 brzina ",4,"Plava ",Zemun
+19558736,18950,"Polovno vozilo",Kia,Stonic,2021,4507,Džip/SUV,Benzin,998,99,"Manuelni 6 brzina ",4,"Siva ",Zemun
+19563083,18950,"Polovno vozilo",Kia,Stonic,2021,8611,Džip/SUV,Benzin,998,99,"Manuelni 6 brzina ",4,"Crna ",Zemun
+19564743,18950,"Polovno vozilo",Kia,Stonic,2021,7050,Džip/SUV,Benzin,998,99,"Manuelni 6 brzina ",4,"Žuta ",Zemun
+19565028,18950,"Polovno vozilo",Kia,Stonic,2021,21252,Džip/SUV,Benzin,998,99,"Manuelni 6 brzina ",4,"Plava ",Zemun
+19778470,18950,"Novo vozilo",Fiat,500X,2022,2,Hečbek,Benzin,999,120,"Manuelni 6 brzina ",4,"Zelena ",Čačak
+19755341,18700,"Polovno vozilo",Fiat,500X,2021,9000,Hečbek,Benzin,999,120,"Manuelni 6 brzina ",4,"Crna ","Novi Sad"
+19260526,18590,"Novo vozilo",Hyundai,Bayon,2021,10,Džip/SUV,Benzin,1368,99,"Manuelni 6 brzina ",4,"Braon ",Sombor
+19414564,18509,"Novo vozilo",Kia,Stonic,2021,5,Džip/SUV,Benzin,1368,101,"Manuelni 6 brzina ",4,"Plava ","Novi Sad"
+19554962,18490,"Polovno vozilo",Kia,cee`d,2021,7680,Hečbek,Benzin,998,120,"Manuelni 6 brzina ",4,"Crvena ",Zemun
+20028083,18490,"Novo vozilo",Peugeot,208,2022,0,Hečbek,Benzin,1199,76,"Manuelni 6 brzina ",4,"Žuta ",Zrenjanin
+20062556,18490,"Polovno vozilo",Seat,Arona,2021,8063,Džip/SUV,Benzin,999,110,"Manuelni 6 brzina ",4,"Siva ",Čačak
+19693687,18390,"Novo vozilo",Toyota,Yaris,2022,0,Hečbek,Benzin,1490,125,"Manuelni 6 brzina ",4,"Bela ",Niš
+19869501,18389,"Novo vozilo",Kia,Stonic,2022,1,Džip/SUV,Benzin,1368,101,"Manuelni 6 brzina ",4,"Siva ",Čačak
+19803626,18290,"Novo vozilo",Hyundai,Bayon,2022,0,Džip/SUV,Benzin,1368,100,"Manuelni 6 brzina ",4,"Crna ",Majur
+19968188,18010,"Novo vozilo",Dacia,Jogger,2022,3,"Monovolumen (MiniVan)",Benzin,999,110,"Manuelni 6 brzina ",4,"Siva ",Pančevo
+19996494,18010,"Novo vozilo",Dacia,Jogger,2022,5,Karavan,Benzin,999,110,"Manuelni 6 brzina ",4,"Siva ",Jagodina
+17159792,18000,"Novo vozilo",Ford,EcoSport,2022,0,Džip/SUV,Benzin,998,125,"Manuelni 6 brzina ",4,"Bordo ",Šabac
+18768994,18000,"Novo vozilo",Ford,EcoSport,2022,0,Džip/SUV,Benzin,998,125,"Manuelni 6 brzina ",4,"Zlatna ",Šabac
+18837770,18000,"Novo vozilo",Ford,EcoSport,2022,1,Džip/SUV,Benzin,998,125,"Manuelni 6 brzina ",4,"Plava ",Šabac
+18858316,18000,"Novo vozilo",Ford,EcoSport,2022,1,Džip/SUV,Benzin,998,125,"Manuelni 6 brzina ",4,"Siva ",Šabac
+17923484,17990,"Novo vozilo",Toyota,Yaris,2022,6,Hečbek,Benzin,1490,125,"Manuelni 6 brzina ",4,"Siva ","Novi Sad"
+20052411,17990,"Polovno vozilo",Seat,Leon,2021,16195,Hečbek,Benzin,999,90,"Manuelni 5 brzina ",4,"Crna ",Beograd
+16122254,17809,"Novo vozilo",Kia,Stonic,2021,0,Džip/SUV,Benzin,1248,84,"Manuelni 5 brzina ",4,"Plava ","Novi Sad"
+19721953,17809,"Novo vozilo",Kia,Stonic,2022,4,Džip/SUV,Benzin,1197,84,"Manuelni 5 brzina ",4,"Crna ",Subotica
+19624517,17800,"Polovno vozilo",Peugeot,208,2021,22000,Hečbek,Dizel,1499,102,"Manuelni 6 brzina ",4,"Bela ",Beograd
+19724221,17790,"Novo vozilo",Dacia,Ostalo,2022,0,Karavan,Benzin,999,110,"Manuelni 6 brzina ",4,"Plava ",Šabac
+19734673,17690,"Novo vozilo",Hyundai,Bayon,2022,0,Džip/SUV,Benzin,1197,84,"Manuelni 5 brzina ",4,"Plava ",Niš
+19896485,17690,"Novo vozilo",Dacia,Jogger,2022,5,Karavan,Benzin,999,109,"Manuelni 6 brzina ",4,"Siva ","Vrnjačka Banja"
+18046598,17689,"Novo vozilo",Kia,Stonic,2022,5,Džip/SUV,Benzin,1197,83,"Manuelni 5 brzina ",4,"Bela ",Veternik
+18376131,17689,"Polovno vozilo",Kia,Stonic,2022,3,Hečbek,Benzin,1197,83,"Manuelni 6 brzina ",4,"Siva ",Veternik
+18802902,17689,"Novo vozilo",Kia,Stonic,2022,2,Džip/SUV,Benzin,1197,84,"Manuelni 5 brzina ",4,"Siva ",Niš
+20058902,17689,"Novo vozilo",Kia,Stonic,2022,1,Džip/SUV,Benzin,1197,84,"Manuelni 5 brzina ",4,"Siva ",Čačak
+19313412,17349,"Novo vozilo",Kia,Stonic,2021,1,Džip/SUV,Benzin,1197,84,"Manuelni 5 brzina ",4,"Bela ",Čačak
+16259918,17310,"Novo vozilo",Renault,Clio,2022,5,Hečbek,Benzin,999,90,"Manuelni 5 brzina ",4,"Crna ",Beograd
+19399068,17310,"Novo vozilo",Renault,Clio,2022,5,Hečbek,Benzin,999,90,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+19431929,17300,"Novo vozilo",Fiat,500L,2022,3,"Monovolumen (MiniVan)",Benzin,1368,95,"Manuelni 6 brzina ",4,"Crvena ",Čačak
+19918854,17290,"Novo vozilo",Ford,Fiesta,2022,5,Hečbek,Benzin,999,101,"Manuelni 6 brzina ",4,"Bela ",Kragujevac
+18037621,17190,"Novo vozilo",Fiat,Tipo,2022,0,Hečbek,Benzin,999,101,"Manuelni 5 brzina ",4,"Plava ","Novi Sad"
+19371340,17190,"Novo vozilo",Fiat,500L,2022,0,Hečbek,Benzin,1368,95,"Manuelni 6 brzina ",4,"Crvena ",Niš
+16999679,17039,"Novo vozilo",Kia,Rio,2022,5,Hečbek,Benzin,1285,84,"Manuelni 5 brzina ",4,"Crvena ",Veternik
+18989664,17000,"Novo vozilo",Nissan,Micra,2022,0,Hečbek,Benzin,999,92,"Manuelni 5 brzina ",4,"Siva ","Novi Sad"
+14718247,16990,"Novo vozilo",Ford,Fiesta,2022,0,Hečbek,Benzin,998,101,"Manuelni 6 brzina ",4,"Crvena ","Novi Sad"
+20052448,16990,"Novo vozilo",Ford,Fiesta,2022,0,Hečbek,Benzin,998,101,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+19832876,16950,"Polovno vozilo",Ford,EcoSport,2021,31630,Džip/SUV,Benzin,998,125,"Manuelni 6 brzina ",4,"Siva ",Šabac
+20017391,16950,"Polovno vozilo",Peugeot,208,2021,18000,Hečbek,Benzin,1199,75,"Manuelni 5 brzina ",4,"Žuta ",Čačak
+19012505,16900,"Novo vozilo",Nissan,Micra,2022,0,Hečbek,Benzin,999,92,"Manuelni 5 brzina ",4,"Crvena ",Beograd
+19155306,16900,"Novo vozilo",Dacia,Ostalo,2022,1,Karavan,Benzin,999,110,"Manuelni 6 brzina ",4,"Plava ",Zrenjanin
+20035218,16900,"Novo vozilo",Nissan,Micra,2022,1,Hečbek,Benzin,999,92,"Manuelni 5 brzina ",4,"Crvena ",Subotica
+19629037,16590,"Novo vozilo",Hyundai,i20,2022,0,Hečbek,Benzin,1368,101,"Manuelni 6 brzina ",4,"Bež ",Niš
+19398949,16420,"Novo vozilo",Renault,Clio,2022,5,Hečbek,Benzin,999,90,"Automatski / poluautomatski ",4,"Siva ",Beograd
+18141411,16390,"Novo vozilo",Nissan,Micra,2022,0,Hečbek,Benzin,999,92,"Manuelni 5 brzina ",4,"Bela ",Kragujevac
+20028171,16350,"Novo vozilo",Nissan,Micra,2022,9,Hečbek,Benzin,999,92,"Manuelni 5 brzina ",4,"Crvena ","Novi Beograd"
+18453109,16308,"Novo vozilo",Škoda,Kamiq,2022,0,Džip/SUV,Benzin,999,95,"Manuelni 5 brzina ",4,"Siva ",Veternik
+17690422,16290,"Novo vozilo",Hyundai,i20,2022,0,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Siva ","Novi Sad"
+18101730,16290,"Novo vozilo",Hyundai,i20,2022,1,Hečbek,Benzin,1289,84,"Manuelni 6 brzina ",4,"Bež ",Jagodina
+17699087,16120,"Novo vozilo",Renault,Clio,2022,5,Hečbek,Benzin,999,90,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+18304406,16000,"Polovno vozilo",Lada,Niva,2021,24,Džip/SUV,Benzin,1690,82,"Manuelni 5 brzina ",2,"Siva ","Novi Sad"
+19637391,15990,"Novo vozilo",Fiat,500L,2022,0,Hečbek,Benzin,1368,95,"Manuelni 6 brzina ",4,"Crvena ",Subotica
+19770283,15990,"Polovno vozilo",Ford,Fiesta,2022,1,Hečbek,Benzin,1084,75,"Manuelni 5 brzina ",4,"Bordo ",Šabac
+19041435,15750,"Novo vozilo",Dacia,Stepway,2022,1,Hečbek,"Benzin + Gas (TNG)",999,91,"Manuelni 6 brzina ",4,"Siva ",Zrenjanin
+18294200,15690,"Novo vozilo",Hyundai,i20,2022,5,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Bež ",Majur
+19900587,15590,"Novo vozilo",Dacia,Logan,2022,0,Limuzina,Benzin,999,91,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19900766,15590,"Polovno vozilo",Dacia,Logan,2022,1,Limuzina,Benzin,999,90,"Automatski / poluautomatski ",4,"Crna ",Beograd
+16922974,15559,"Novo vozilo",Kia,Rio,2021,0,Hečbek,Benzin,1248,84,"Manuelni 5 brzina ",4,"Crvena ","Novi Sad"
+20066062,15500,"Polovno vozilo",Fiat,500L,2021,1650,"Monovolumen (MiniVan)",Benzin,1368,95,"Manuelni 6 brzina ",4,"Crvena ",Beograd
+18048081,15440,"Novo vozilo",Hyundai,i10,2021,0,Hečbek,Benzin,1248,83,"Automatski / poluautomatski ",4,"Plava ",Niš
+16798231,15439,"Novo vozilo",Kia,Rio,2022,4,Hečbek,Benzin,1250,86,"Manuelni 5 brzina ",4,"Crvena ",Veternik
+18802974,15439,"Novo vozilo",Kia,Rio,2022,2,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Siva ",Niš
+19313427,15439,"Novo vozilo",Kia,Rio,2021,1,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Siva ",Čačak
+17923424,15170,"Novo vozilo",Dacia,Stepway,2022,1,Hečbek,Benzin,999,90,"Manuelni 6 brzina ",4,"Narandžasta ",Zrenjanin
+18071893,15100,"Novo vozilo",Fiat,Tipo,2021,1,Hečbek,Benzin,1368,95,"Manuelni 6 brzina ",4,"Siva ",Čačak
+19900804,15070,"Novo vozilo",Dacia,Logan,2022,1,Limuzina,"Benzin + Gas (TNG)",999,101,"Manuelni 6 brzina ",4,"Siva ",Beograd
+19901950,15070,"Novo vozilo",Dacia,Logan,2022,1,Limuzina,"Benzin + Gas (TNG)",999,101,"Manuelni 6 brzina ",4,"Siva ",Beograd
+19667503,15040,"Novo vozilo",Fiat,500,2022,1,Hečbek,Benzin,999,69,"Manuelni 6 brzina ",2,"Bela ",Čačak
+19800318,15040,"Novo vozilo",Fiat,500,2022,0,Kupe,Benzin,999,70,"Manuelni 6 brzina ",2,"Plava ",Beograd
+19800359,15040,"Novo vozilo",Fiat,500,2022,0,Kupe,Benzin,999,69,"Manuelni 6 brzina ",2,"Crvena ",Beograd
+19623416,14990,"Novo vozilo",Fiat,500C,2022,0,Hečbek,Benzin,999,69,"Manuelni 6 brzina ",2,"Narandžasta ",Kragujevac
+19982032,14990,"Polovno vozilo",Opel,"Corsa F",2021,490,Hečbek,Benzin,1199,75,"Manuelni 5 brzina ",4,"Siva ",Kragujevac
+20012460,14990,"Novo vozilo",Volkswagen,up!,2022,0,Hečbek,Benzin,999,65,"Manuelni 5 brzina ",4,"Siva ",Subotica
+20061817,14990,"Polovno vozilo",Citroen,C3,2021,9800,Hečbek,Benzin,1199,83,"Manuelni 5 brzina ",4,"Plava ","Novi Sad"
+18092363,14790,"Novo vozilo",Hyundai,i20,2022,5,Hečbek,Benzin,1197,83,"Manuelni 5 brzina ",4,"Bela ",Kraljevo
+19667790,14790,"Novo vozilo",Hyundai,i20,2022,0,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Crvena ",Niš
+19704199,14540,"Novo vozilo",Fiat,500,2022,1,Hečbek,Benzin,999,69,"Manuelni 6 brzina ",2,"Crvena ",Čačak
+19956202,14540,"Novo vozilo",Fiat,500,2022,2,Hečbek,"Hibridni pogon",999,69,"Manuelni 6 brzina ",2,"Bela ",Zemun
+17885523,14490,"Novo vozilo",Dacia,Logan,2022,3,Limuzina,Benzin,999,91,"Manuelni 6 brzina ",4,"Plava ",Zrenjanin
+19900992,14490,"Novo vozilo",Dacia,Logan,2022,1,Limuzina,Benzin,999,90,"Manuelni 6 brzina ",4,"Siva ",Beograd
+18735632,14430,"Novo vozilo",Renault,Clio,2022,5,Hečbek,Benzin,999,65,"Manuelni 6 brzina ",4,"Bela ",Beograd
+19660023,14040,"Novo vozilo",Fiat,500,2022,1,Hečbek,Benzin,999,69,"Manuelni 6 brzina ",2,"Siva ",Čačak
+19950060,14040,"Polovno vozilo",Hyundai,i10,2022,5,Hečbek,Benzin,1197,83,"Manuelni 5 brzina ",4,"Crvena ",Kraljevo
+18131235,13990,"Novo vozilo",Fiat,500,2022,0,Hečbek,"Hibridni pogon",999,71,"Manuelni 6 brzina ",2,"Crvena ","Novi Sad"
+19803710,13940,"Novo vozilo",Fiat,500,2022,0,Hečbek,Benzin,999,69,"Manuelni 6 brzina ",2,"Narandžasta ",Beograd
+20032647,13900,"Polovno vozilo",Jeep,Compass,2021,4000,Džip/SUV,Benzin,1345,150,"Automatski / poluautomatski ",4,"Crna ",Čačak
+20066388,13700,"Polovno vozilo",Fiat,Tipo,2021,8300,Hečbek,Benzin,1400,90,"Manuelni 6 brzina ",4,"Tirkiz ","Gornji Milanovac"
+19752621,13500,"Novo vozilo",Fiat,500,2022,0,Hečbek,Benzin,999,69,"Manuelni 6 brzina ",2,"Narandžasta ",Šabac
+19955615,13470,"Polovno vozilo",Volkswagen,up!,2022,1,Hečbek,Benzin,999,65,"Manuelni 5 brzina ",2,"Crvena ",Kragujevac
+17677603,13390,"Novo vozilo",Hyundai,i20,2022,5,Hečbek,Benzin,1248,84,"Manuelni 5 brzina ",4,"Bela ",Zrenjanin
+18223419,13390,"Novo vozilo",Hyundai,i20,2022,5,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Bela ",Kraljevo
+18264104,13390,"Novo vozilo",Hyundai,i10,2022,0,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Siva ",Majur
+19694168,13240,"Novo vozilo",Fiat,500,2022,2,Hečbek,Benzin,999,69,"Manuelni 6 brzina ",2,"Narandžasta ",Čačak
+20041215,13100,"Polovno vozilo",Fiat,500,2021,9000,Hečbek,"Hibridni pogon",999,69,"Manuelni 6 brzina ",2,"Bela ","Novi Sad"
+18377216,12990,"Novo vozilo",Hyundai,i10,2022,5,Hečbek,Benzin,998,67,"Manuelni 5 brzina ",4,"Plava ",Zrenjanin
+17371895,12790,"Novo vozilo",Hyundai,i10,2022,0,Hečbek,Benzin,1248,84,"Manuelni 6 brzina ",4,"Bež ","Novi Sad"
+18233883,12790,"Novo vozilo",Hyundai,i10,2022,1,Hečbek,Benzin,1197,61,"Manuelni 6 brzina ",4,"Plava ",Jagodina
+17997659,12390,"Novo vozilo",Hyundai,i10,2022,1,Hečbek,Benzin,1197,84,"Manuelni 5 brzina ",4,"Siva ",Jagodina
+18270278,12390,"Novo vozilo",Hyundai,i10,2022,4,Hečbek,Benzin,998,67,"Manuelni 5 brzina ",4,"Plava ",Sombor
+18458309,11090,"Novo vozilo",Hyundai,i10,2022,0,Hečbek,Benzin,998,67,"Manuelni 5 brzina ",4,"Bela ",Majur
+20044976,10800,"Polovno vozilo",Dacia,Logan,2021,15500,Limuzina,Benzin,998,73,"Manuelni 5 brzina ",4,"Bela ",Beograd
+20038349,9888,"Polovno vozilo",Škoda,Fabia,2021,6652,Hečbek,Benzin,999,60,"Manuelni 5 brzina ",4,"Bela ","Novi Beograd"
+20048327,9450,"Novo vozilo",Škoda,Superb,2022,0,Limuzina,Dizel,2000,200,"Automatski / poluautomatski ",4,"Crna ",Beograd
+20050086,1950,"Polovno vozilo","Alfa Romeo",156,2022,222000,Karavan,Dizel,1980,110,"Manuelni 5 brzina ",4,"Siva ",Kragujevac
+19844028,799,"Polovno vozilo",Škoda,Superb,2022,50,Hečbek,Dizel,1968,150,"Automatski / poluautomatski ",4,"Crna ",Beograd
+20013746,799,"Polovno vozilo",Volkswagen,Tiguan,2022,10,Džip/SUV,Benzin,1498,150,"Automatski / poluautomatski ",4,"Bela ",Beograd
+19866114,690,"Polovno vozilo","Land Rover","Discovery Sport",2022,15,Džip/SUV,"Hibridni pogon",1997,165,"Automatski / poluautomatski ",4,"Crna ",Zemun
+20063059,470,"Polovno vozilo",BMW,X1,2022,7,Džip/SUV,Dizel,1995,150,"Automatski / poluautomatski ",4,"Bela ",Zemun

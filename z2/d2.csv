@@ -1,0 +1,31 @@
+idOglasa,cena,stanje,marka,model,godiste,kilometraza,karoserija,gorivo,kubikaza,snagaMotora,menjac,brojVrata,boja,lokacijaProdavca
+18808403,275900,"Polovno vozilo","Mercedes Benz","GLS 600",2021,3000,Džip/SUV,Benzin,3982,557,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19483963,209990,"Polovno vozilo","Mercedes Benz","G 500",2017,38400,Džip/SUV,Benzin,3982,421,"Automatski / poluautomatski ",4,"Siva ",Beograd
+19887936,191900,"Polovno vozilo","Mercedes Benz","G 400",2022,1000,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19963538,179900,"Polovno vozilo","Mercedes Benz","GLE 63 AMG",2021,15000,Džip/SUV,Benzin,3982,612,"Automatski / poluautomatski ",4,"Crna ",Temerin
+19383029,175900,"Polovno vozilo","Mercedes Benz","GLE 63 AMG",2022,12000,Džip/SUV,Benzin,3982,612,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19941276,174900,"Polovno vozilo","Mercedes Benz","G 400",2021,25000,Džip/SUV,Dizel,3000,330,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+19067328,169000,"Polovno vozilo","Mercedes Benz","G 400",2021,16900,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Siva ",Niš
+19374584,164999,"Polovno vozilo","Mercedes Benz","G 400",2019,29000,Džip/SUV,Dizel,2998,329,"Automatski / poluautomatski ",4,"Braon ",Beograd
+16450124,164000,"Polovno vozilo",Audi,"RS Q8",2020,29000,Džip/SUV,Benzin,4000,600,"Automatski / poluautomatski ",4,"Crvena ",Prigrevica
+19922158,162000,"Polovno vozilo","Mercedes Benz","G 400",2020,25000,Džip/SUV,Dizel,2925,330,"Automatski / poluautomatski ",4,"Crna ",Niš
+15691993,159000,"Polovno vozilo",Audi,Q8,2020,35000,Džip/SUV,Benzin,3996,700,"Automatski ",4,"Crna ",Niš
+20027869,152000,"Polovno vozilo","Mercedes Benz","G 350",2020,45000,Džip/SUV,Dizel,2925,286,"Automatski / poluautomatski ",4,"Crna ",Subotica
+19383044,148900,"Polovno vozilo","Mercedes Benz","GLS 580",2021,12000,Džip/SUV,Benzin,3982,489,"Automatski / poluautomatski ",4,"Crna ",Beograd
+19021226,148900,"Polovno vozilo","Mercedes Benz","G 350",2020,28800,Džip/SUV,Dizel,2925,286,"Automatski / poluautomatski ",4,"Srebrna ",Beograd
+18763302,147000,"Polovno vozilo","Mercedes Benz","G 350",2020,22000,Džip/SUV,Dizel,2893,286,"Automatski / poluautomatski ",4,"Crna ",Vračar
+19898346,144900,"Polovno vozilo",Bentley,Bentayga,2017,139100,Džip/SUV,Dizel,3956,435,"Automatski / poluautomatski ",4,"Plava ",Inđija
+19963470,144900,"Polovno vozilo","Mercedes Benz","G 350",2019,44000,Džip/SUV,Dizel,2925,286,"Automatski / poluautomatski ",4,"Crna ",Temerin
+19500902,143500,"Polovno vozilo","Mercedes Benz","GLS 580",2021,8800,Džip/SUV,Benzin,3982,489,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19764440,139900,"Polovno vozilo",Audi,SQ8,2020,26700,Džip/SUV,Dizel,3956,435,"Automatski / poluautomatski ",4,"Crna ",Obrenovac
+17924797,130000,"Polovno vozilo",Audi,SQ8,2019,14000,Džip/SUV,Dizel,4000,435,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+19603430,129990,"Polovno vozilo","Mercedes Benz","GLE 53 AMG",2020,33924,Džip/SUV,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crna ",Veternik
+19383005,129900,"Polovno vozilo","Mercedes Benz","GLE 53 AMG",2020,18000,Džip/SUV,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crvena ",Beograd
+19511673,127900,"Polovno vozilo","Mercedes Benz","GLS 400",2021,17000,Džip/SUV,Dizel,3000,330,"Automatski / poluautomatski ",4,"Crna ",Prigrevica
+18886944,122900,"Polovno vozilo","Mercedes Benz","GLE 53 AMG",2020,27800,Džip/SUV,Benzin,2999,435,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+19290737,122500,"Polovno vozilo","Mercedes Benz","GLE 53 AMG",2021,5000,Džip/SUV,Benzin,2999,435,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+19734288,119990,"Polovno vozilo",Porsche,Cayenne,2020,4500,Džip/SUV,Benzin,2995,340,"Automatski / poluautomatski ",4,"Teget ",Beograd
+19697030,119900,"Polovno vozilo","Mercedes Benz","GLE 53 AMG",2020,28000,Džip/SUV,Benzin,2999,435,"Automatski / poluautomatski ",4,"Siva ",Mladenovac
+19853914,119900,"Polovno vozilo","Mercedes Benz","GLE 580",2021,7500,Džip/SUV,Benzin,3982,489,"Automatski / poluautomatski ",4,"Crna ",Mladenovac
+18897721,119000,"Polovno vozilo","Mercedes Benz","GLS 500",2021,15000,Džip/SUV,Benzin,2999,367,"Automatski / poluautomatski ",4,"Siva ","NOVI SAD"
+18885970,118000,"Polovno vozilo",Porsche,Cayenne,2019,47000,Džip/SUV,Benzin,2894,441,"Automatski / poluautomatski ",4,"Siva ",Prigrevica
